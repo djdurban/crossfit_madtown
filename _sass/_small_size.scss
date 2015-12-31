@@ -1,0 +1,45 @@
+@media screen and (min-width: 768px){
+	.mask {
+		min-height: 30rem;
+		#siteTitle {
+			font-size: 6rem;
+			padding-top: 10rem;
+		}
+		h2 {
+			font-size: 2rem;
+		}
+	}
+	.vegas-container {
+		min-height: 30rem;
+	}
+
+	.light-border {
+		border-right: 1px solid $neutral-light;
+		min-height: 388px;
+	}
+
+	.feature-wrapper {
+		border-bottom: 0;
+		margin-bottom: 0;
+		padding: 2rem 0;
+
+		h3 {
+			min-height: 66px;
+		}
+
+	}
+
+	.feature-content {
+		max-width: 400px;
+		margin: 0 auto;
+	}
+
+	.bg-image-wrapper {
+		h3, .testimonial {
+			max-width: 550px;
+			margin: 0 auto; 
+			padding: 1rem;
+		}
+	}
+
+}

@@ -1,0 +1,119 @@
+<!DOCTYPE>
+<html>
+	<head>
+		<title>Crossfit Madtown</title>
+		<meta name="viewport" content="width=device-width, initial-scale=1.0">
+		<link rel="stylesheet" href="/css/style.css">
+	</head>
+	<body>
+		<main>
+	<section id="header">
+		<nav>
+					<button id="trigger-overlay" type="button">&#9776;</button>
+
+		</nav>
+	</section>
+	<section class="container-fluid">
+		<div class="row">
+			<div class="col-sm-12 col-sm-4 light-border">
+				<div class="feature-wrapper">
+					<div class="feature-content">
+						<div class="img-wrapper">
+							<img src="/images/icons/timer.svg">
+						</div>
+						<h3>Youth Athletic<br /> Performance Training</h3>
+						<p>Our Athletic Performance Training for youth is geared towards children Ages 8-12. Whether the kids are serious about playing a sport, or just testing out their athleticism, there is a class for everyone!</p>
+					</div>
+				</div>
+			</div>
+			<div class="col-sm-12 col-sm-4 light-border">
+				<div class="feature-wrapper">
+					<div class="feature-content">
+						<div class="img-wrapper">
+							<img src="/images/icons/kettlebell.svg">
+						</div>
+						<h3>Crossfit</h3>
+						<p>Whether you're new to the "sport of fitness" or have a goal of competing in the CrossFit Games, there's a CrossFit MadTown class for you.</p>
+					</div>
+				</div>
+			</div>
+			<div class="col-sm-12 col-sm-4">
+				<div class="feature-wrapper last">
+					<div class="feature-content">
+						<div class="img-wrapper oly">
+							<img src="/images/icons/oly.svg">
+						</div>
+						<h3>Olympic Weightlifting</h3>
+						<p> If you're looking to develop speed, acceleration, coordination, strength, and power, or if you simply want to up your fitness game, then Olympic Lifting with CrossFit MadTown is for you.</p>
+					</div>
+				</div>
+			</div>
+		</div>
+	</section>
+	<footer>
+		<div class="container-fluid">
+			<div class="row">
+				<div class="col-xs-12 col-sm-6">
+					<div class="contact-wrapper">
+						<h3>Contact</h3>
+						<div>
+							<img src="/images/icons/circle_kettlebell.svg">
+							<p>Crossfit: (608) 282-5610</p>
+						</div>
+						<div>
+							<img src="/images/icons/circle_timer.svg">
+							<p>Athletic Performance Training: (608) 282-5324</p>
+						</div>
+						<form method="POST">
+							<input type="text" placeholder="Name">
+							<input type="email" placeholder="Email Address">
+							<textarea placeholder="Message"></textarea>
+							<button type="submit" class="btn btn-default">Submit</button>
+						</form>
+					</div>
+				</div>
+				<div class="col-xs-12 col-sm-6">
+					<div class="map-wrapper">
+						<h3>Location</h3>
+						<p>CrossFit MadTown</p>
+						<p>2500 Pleasant View Rd. #101</p>
+						<p>Middleton, WI 53562 </p>
+						<div id="map"></div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</footer>
+	<div class="overlay overlay-hugeinc">
+		<button type="button" class="overlay-close">Close</button>
+		<nav>
+			<ul>
+				<li><a href="/index.html">Home</a></li>
+				<li><a href="/getting_started.html">Getting Started</a></li>
+				<li><a href="/yapt.html">Youth Athletic Performance Training</a></li>
+				<li><a href="/hsapt.html">High School Athletic Performance Training</a></li>
+				<li><a href="/hot_mammas.html">Hot Mammas</a></li>
+				<li><a href="/crossfit.html">CrossFit</a></li>
+				<li><a href="/olympic_lifting.html">Olympic Weightlifting</a></li>
+			</ul>
+		</nav>
+	</div>
+	</main>
+	<script src="js/jquery-2.1.4.min.js"></script>
+	<script src="js/bootstrap.min.js"></script>
+	<script src="js/modernizr.custom.js"></script>
+	<script src="js/classie.js"></script>
+	<script src="js/main.js"></script>
+	<script src="js/vegas.js"></script>
+	<script>
+		$("#vegas").vegas({
+		slides: [
+		{ src: "images/about_image.jpg" },
+		{ src: "images/getting_started.jpg" }
+		],
+		overlay: true
+		});
+	</script>
+	<script src="js/menu.js"></script>
+</body>
+</html>
