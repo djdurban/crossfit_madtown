@@ -2,11 +2,18 @@
 <html>
 	{% include head.html %}
 	<body>
-		<main>
-		{% include nav.html %}
-		{{ content }}
-		{% include footer.html %}
-		</main>
+		<div id="site-wrapper">
+			
+			<div id="site-canvas">
+				
+				{% include nav.html %}
+				
+				{{content}}
+				
+				
+				{% include footer.html %}
+			</div>
+		</div>
 		{% include js.html %}
 	</body>
 </html>

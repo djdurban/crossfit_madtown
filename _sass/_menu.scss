@@ -1,109 +1,69 @@
-/* Overlay style */
-.overlay {
-	width: 100%;
-	height: 100%;
-	top: 0;
-	left: 0;
-	background: rgba(51,51,51,0.98);
+
+/*
+* Uses Font Awesome and Bootstrap 3
+* Both aren't required for this demo
+*/
+#site-wrapper {
+  position: relative;
+  overflow: hidden;
+  width: 100%;
+  
+}
+#site-canvas {
+  width: 100%;
+  position: relative;
+  
+  -webkit-transform: translateX(0);
+  transform: translateX(0);
+  
+  -webkit-transform: translate3d(0, 0, 0);
+  transform: translate3d(0, 0, 0);
+  
+  -webkit-transition: 300ms ease all;
+  transition: 300ms ease all;
+ 
+  -webkit-backface-visibility: hidden;
+  backface-visibility: hidden;
+
+  
+  
+ }
+.show-nav #site-canvas {
+  -webkit-transform: translateX(300px);
+  transform: translateX(300px);
+  
+  -webkit-transform: translate3d(300px, 0, 0);
+  transform: translate3d(300px, 0, 0);
+}
+#site-menu {
+  width: 300px;
+  height: 100%;
+  position: absolute;
+  top: 0;
+  left: -300px;
+  background: $x-neutral-light;
+  padding: 15px;
 }
 
-/* Overlay closing cross */
-.overlay .overlay-close {
-	width: 16px;
-	height: 16px;
-	position: absolute;
-	left: 12px;
-	top: 15px;
-	overflow: hidden;
-	border: none;
-	background: url(../images/menu/cross.png) no-repeat center center;
-	text-indent: 200%;
-	color: transparent;
-	outline: none;
-	z-index: 100;
+#menu-btn {
+  display: block;
+  position: absolute;
+  z-index: 2;
+  width: 300px;
+  margin: 0 auto;
+  font-size: 40px;
+  font-weight: 300;
 }
 
-/* Menu style */
-.overlay nav {
-	text-align: center;
-	position: relative;
-	top: 50%;
-	font-size: 54px;
-	-webkit-transform: translateY(-50%);
-	transform: translateY(-50%);
+#menu-close {
+  display: block;
+  float: right;
 }
 
-.overlay ul {
-	list-style: none;
-	padding: 0;
-	margin: 0 auto;
-	display: inline-block;
-	height: 100%;
-	width: 100%;
-	position: relative;
+.menu-links {
+  clear: both;
+  
+.page-link {
+  display: block;
 }
-
-
-.overlay ul li a {
-	font-weight: 300;
-	display: block;
-	color: #fff;
-	-webkit-transition: color 0.2s;
-	transition: color 0.2s;
-}
-
-.overlay ul li a:hover,
-.overlay ul li a:focus {
-	color: #e3fcb1;
-}
-
-/* Effects */
-.overlay-hugeinc {
-	opacity: 0;
-	position: fixed;
-	z-index: 2;
-	visibility: hidden;
-	-webkit-transition: opacity 0.5s, visibility 0s 0.5s;
-	transition: opacity 0.5s, visibility 0s 0.5s;
-}
-
-.overlay-hugeinc.open {
-	opacity: 1;
-	visibility: visible;
-	-webkit-transition: opacity 0.5s;
-	transition: opacity 0.5s;
-}
-
-.overlay-hugeinc nav {
-	-webkit-perspective: 1200px;
-	perspective: 1200px;
-}
-
-.overlay-hugeinc nav ul {
-	opacity: 0.4;
-	-webkit-transform: translateY(-25%) rotateX(35deg);
-	transform: translateY(-25%) rotateX(35deg);
-	-webkit-transition: -webkit-transform 0.5s, opacity 0.5s;
-	transition: transform 0.5s, opacity 0.5s;
-}
-
-.overlay-hugeinc.open nav ul {
-	opacity: 1;
-	-webkit-transform: rotateX(0deg);
-	transform: rotateX(0deg);
-}
-
-.overlay-hugeinc.close nav ul {
-	-webkit-transform: translateY(25%) rotateX(-35deg);
-	transform: translateY(25%) rotateX(-35deg);
-}
-
-@media screen and (max-height: 30.5em) {
-	.overlay nav {
-		height: 70%;
-		font-size: 34px;
-	}
-	.overlay ul li {
-		min-height: 34px;
-	}
 }
