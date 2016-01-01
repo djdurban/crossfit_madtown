@@ -13,10 +13,28 @@ p {
     font-weight: 300;
 }
 
-.btn-default {
+//Buttons
+
+.btn {
     border-radius: 0;
 }
 
+.btn-more {
+    background-color: $neutral-dark;
+    color: $white;
+    text-transform: uppercase;
+    min-width: 30%;
+    display: block;
+    margin: 0 auto;
+    margin-top: 2em;
+
+    &:nth-child(2){
+        margin-top: 4em;
+    }
+}
+
+
+//Homepage
 
 #header {
     position: absolute;
@@ -163,6 +181,32 @@ p {
 
 }
 
+//Internal Pages
+
+.internal-header {
+    min-height: 15em;
+    background-image: url('/images/about_image.jpg');
+    background-size: cover;
+    background-position: 0 -6em;
+
+    
+}
+
+.internal-mask {
+    min-height: 15em;
+    h1 {
+        margin: 0;
+        font-size: 3rem;
+        text-align: center;
+        padding-top: 2.9em;
+        text-transform: uppercase;
+        color: $white;
+        text-shadow: 2px 2px 2px rgba(0, 0, 0, 0.25)
+    }
+}
+
+//Footer
+
 footer {
     padding: 1rem;
     background-color: $neutral-dark;
@@ -221,3 +265,4 @@ footer {
         }
     }
 }
+
