@@ -1,0 +1,10 @@
+collections:
+  youthAPTClasses:
+    output: true
+defaults:
+  -
+    scope:
+      path: ""
+      type: "youthAPTClasses"
+    values:
+      layout: "post"
