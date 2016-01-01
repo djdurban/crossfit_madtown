@@ -5,12 +5,12 @@ navTitle: true
 permalink: /athletic-performance-training/
 ---
 
-{% for youthClasses in site.youthAPTClasses %}
+{% for service in site.services %}
   <div class="col-lg-3 col-md-6 text-center">
     <div class="service-box">
-      <img src="{{ youthClasses.image_path }}" alt="{{ youthClasses.title }}"/>
-      <h3><a href="{{ youthClasses.url }}">{{ youthClasses.title }}</a></h3>
-      <p class="text-muted">{{ youthClasses.content}}</p>
+      <img src="{{ service.image_path }}" alt="{{ service.title }}"/>
+      <h3><a href="{{ service.url }}">{{ service.title }}</a></h3>
+      <p class="text-muted">{{ service.content | truncatewords: 10 }}</p>
     </div>
   </div>
 {% endfor %}

@@ -1,10 +1,10 @@
 collections:
-  youthAPTClasses:
+  services:
     output: true
 defaults:
   -
     scope:
       path: ""
-      type: "youthAPTClasses"
+      type: "services"
     values:
       layout: "post"
