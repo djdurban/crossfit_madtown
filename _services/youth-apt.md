@@ -2,5 +2,6 @@
 layout:
 permalink:
 title:
+url:
 ---
 
