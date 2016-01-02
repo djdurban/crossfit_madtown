@@ -1,6 +1,0 @@
----
-layout:
-permalink:
-title:
----
-
