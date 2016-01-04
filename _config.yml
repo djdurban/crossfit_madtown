@@ -8,3 +8,13 @@ defaults:
       type: "athletic-performance-training"
     values:
       layout: "post"
+
+  camps-clinics-workshops:
+    output: true
+defaults:
+  -
+    scope:
+      path: ""
+      type: "camps-clinics-workshops"
+    values:
+      layout: "post"

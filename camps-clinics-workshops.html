@@ -1,0 +1,14 @@
+---
+layout: internal
+title: Camps, Clinics, Workshops
+navTitle: true
+permalink: /camps-clinics-workshops/
+---
+
+{% for camps in site.camps-clinics-workshops %}
+  <div class="col-lg-3 col-md-6 text-center">
+    <div class="service-box">
+      <h3><a href="{{ camps.url }}">{{ camps.title }}</a></h3>
+    </div>
+  </div>
+{% endfor %}
