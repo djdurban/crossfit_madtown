@@ -4,18 +4,31 @@ title: Youth Athletic Performance Training
 date: 2016-01-04T04:39:00.000Z
 ---
 
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
+### &nbsp;
 
-To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+#### Introduction to Developmental Strength and Conditioning
 
-Jekyll also offers powerful support for code snippets:
+The base foundation is the most important aspect to an athlete’s future success. Thursday's program is designed to help the young budding athlete to learn the athletic skills necessary to be successful at any sport. In class, we will help your child learn how to properly jump, run, tumble, jump rope, be more agile, develop speed and properly handle their own body weight though bodyweight strength training exercises.
 
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=&gt; prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
+**Seasons: Fall 2015 September 1st - November 28th**
 
-Check out the [Jekyll docs](http://jekyllrb.com/docs/home) for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo](https://github.com/jekyll/jekyll). If you have questions, you can ask them on [Jekyll Talk](https://talk.jekyllrb.com/).
+**Cost:&nbsp;**
+
+* 2 Training Sessions a week: $120 mo
+* 3 Training Sessions a week: $150mo
+* 4 Training Sessions a week: $175 mo
+
+
+\* Training sessions are 60 minutes in duration.
+\* All memberships are month-to-month. No hidden or additional fees.
+
+**Days/Times:**
+
+Mondays & Wednesdays@ 4:30-5:30pm
+Tuesdays & Thursdays@ 5:30pm - 6:30pm
+
+**Additional Details:**
+
+Gender: Male/Female
+
+Ages: 8-12
