@@ -6,7 +6,7 @@ date: 2016-01-04T04:39:00.000Z
 
 ### &nbsp;
 
-**Introduction to Developmental Strength and Conditioning**
+## **Introduction to Developmental Strength and Conditioning**
 
 The base foundation is the most important aspect to an athlete’s future success. Thursday's program is designed to help the young budding athlete to learn the athletic skills necessary to be successful at any sport. In class, we will help your child learn how to properly jump, run, tumble, jump rope, be more agile, develop speed and properly handle their own body weight though bodyweight strength training exercises.
 
