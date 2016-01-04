@@ -1,27 +1,33 @@
 ---
 layout: post
+<<<<<<< HEAD
 title:  "Getting Started"
 date:   2016-01-03 20:39:42 -0800
 img1: "/images/abby_rings.jpg"
 img2: "/images/handstand.jpg"
 img3: "/images/running.jpg"
+=======
+title: About Crossfit
+date: 2016-01-04T04:39:00.000Z
+>>>>>>> 3640085051786bf707093ab86d0f7f734b61b667
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
 
-To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+At CrossFit Madtown, we focus on helping you reach your full athletic potential. Whether you have never lifted a weight before, or you have been swinging kettlebells for years, we help you improve your form and increase your efficiency.
 
-Jekyll also offers powerful support for code snippets:
+### **What is Crossfit?**
 
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
+"CrossFit advocates a mix of aerobic exercise, gymnastics (body weight exercises), and Olympic weight lifting. CrossFit describes its strength and conditioning program as 'constantly varied, high intensity, functional movement,' with the stated goal of improving fitness, which it defines as 'work capacity across broad time and modal domains.' Hour-long classes at affiliated gyms, or 'boxes', typically include a warm-up, a skill development segment, the high-intensity 'workout of the day' (or WOD), and a period of individual or group stretching. Performance on each WOD is often scored and/or ranked to encourage competition and to track individual progress."&nbsp;[Read More](https://en.wikipedia.org/wiki/CrossFit)
 
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
+### &nbsp;
 
-[jekyll-docs]: http://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
+### Do I Need Any Experience?
+
+No previous experience is necessary! Many of our regulars started at CrossFit Madtown with little to no experience. We will guide you through each workout and help you improve your form and technique during every class. Our coaches train you in everything from strength, to agility, to flexibility, and much more.
+
+&nbsp;
+
+### How Do I Get Started?
+
+We recommend starting with our Introduction to Crossfit class. Most members spend 8-10 weeks in our Introduction to CrossFit class before they begin in the regular sessions. However, it is not required, and depending on your athletic abilities, you may able to start regular classes sooner. The first class is free, so contact us today to sign up!
+
+&nbsp;
