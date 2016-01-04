@@ -1,6 +1,7 @@
 ---
 layout: post
-title: youth-training
-date: '2015-12-14 20:39:42 -0800'
+title: Youth Athletic Training
+date: 2015-12-15T04:39:00.000Z
 categories: jekyll update
 ---
+
