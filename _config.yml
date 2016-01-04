@@ -2,18 +2,17 @@ collections:
 	athletic-performance-training:
 		output: true
 		defaults:
-		-
-		scope:
-		path: ""
-		type: "athletic-performance-training"
+		- scope:
+			path: ""
+			type: "athletic-performance-training"
 		values:
-		layout: "post"
+			layout: "post"
+	
 	camps-clinics-workshops:
 		output: true
 		defaults:
-		-
-		scope:
-		path: ""
-		type: "camps-clinics-workshops"
+		- scope:
+			path: ""
+			type: "camps-clinics-workshops"
 		values:
-		layout: "post"
+			layout: "post"
