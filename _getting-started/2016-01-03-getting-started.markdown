@@ -1,15 +1,10 @@
 ---
 layout: post
-<<<<<<< HEAD
-title:  "Getting Started"
-date:   2016-01-03 20:39:42 -0800
+title: About Crossfit
+date:  2016-01-03 20:39:42 -0800
 img1: "/images/abby_rings.jpg"
 img2: "/images/handstand.jpg"
 img3: "/images/running.jpg"
-=======
-title: About Crossfit
-date: 2016-01-04T04:39:00.000Z
->>>>>>> 3640085051786bf707093ab86d0f7f734b61b667
 ---
 
 At CrossFit Madtown, we focus on helping you reach your full athletic potential. Whether you have never lifted a weight before, or you have been swinging kettlebells for years, we help you improve your form and increase your efficiency.
