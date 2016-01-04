@@ -7,4 +7,4 @@ defaults:
       path: ""
       type: "services"
     values:
-      layout: "internal_class"
+      layout: "post"
