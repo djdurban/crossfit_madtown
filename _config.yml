@@ -1,11 +1,3 @@
-getting-started:
-    output: true
-    defaults:
-        scope:
-            path: ""
-            type: "getting-started"
-        values:
-            layout: "post"
 collections:
     athletic-performance-training:
         output: true
@@ -21,5 +13,13 @@ collections:
             scope:
                 path: ""
                 type: "camps-clinics-workshops"
+            values:
+                layout: "post"
+    getting-started:
+        output: true
+        defaults:
+            scope:
+                path: ""
+                type: "getting-started"
             values:
                 layout: "post"
