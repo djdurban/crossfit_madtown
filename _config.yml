@@ -7,7 +7,6 @@ collections:
 			type: "athletic-performance-training"
 		values:
 			layout: "post"
-	
 	camps-clinics-workshops:
 		output: true
 		defaults:
