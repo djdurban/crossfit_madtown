@@ -11,7 +11,7 @@ At CrossFit Madtown, we focus on helping you reach your full athletic potential.
 
 
 <div class="col-md-3">
-<img src="{{img1}}">
+<img src="{{page.img1}}">
 </div>
 <div class="col-md-4">
 <h3><strong>What is Crossfit?</strong></h3>
