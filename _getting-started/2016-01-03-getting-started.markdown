@@ -10,11 +10,11 @@ img3: "/images/running.jpg"
 At CrossFit Madtown, we focus on helping you reach your full athletic potential. Whether you have never lifted a weight before, or you have been swinging kettlebells for years, we help you improve your form and increase your efficiency.
 
 <div class="col-sm-3">
-![Girl on Rings]({{page.img1}})
+<img src="{{page.img1}}" alt="Girl on Rings">
 </div>
 
 <div class="col-sm-9">
-### **What is Crossfit?**
+<h3>What is Crossfit?</h3>
 
 "CrossFit advocates a mix of aerobic exercise, gymnastics (body weight exercises), and Olympic weight lifting. CrossFit describes its strength and conditioning program as 'constantly varied, high intensity, functional movement,' with the stated goal of improving fitness, which it defines as 'work capacity across broad time and modal domains.' Hour-long classes at affiliated gyms, or 'boxes', typically include a warm-up, a skill development segment, the high-intensity 'workout of the day' (or WOD), and a period of individual or group stretching. Performance on each WOD is often scored and/or ranked to encourage competition and to track individual progress."&nbsp;[Read More](https://en.wikipedia.org/wiki/CrossFit)
 </div>
