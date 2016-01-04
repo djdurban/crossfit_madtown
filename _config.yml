@@ -5,6 +5,6 @@ defaults:
   -
     scope:
       path: ""
-      type: "classes"
+      type: "athletic-performance-training"
     values:
       layout: "post"
