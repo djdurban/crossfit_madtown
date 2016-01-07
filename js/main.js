@@ -4,5 +4,6 @@ if (window.location.pathname === '/getting-started/2016-01-03-getting-started.ht
 	$('#contact p').css('padding-left', '2%');
 	$('#contact h3 + p').css('width', '25%');
 	$('#contact h3 + p').css('float', 'left');
+	console.log('pathname');
 
 }
