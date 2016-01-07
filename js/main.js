@@ -12,5 +12,3 @@ if (pathname === '/getting-started/2016-01-03-getting-started.html') {
 	$('#contact > p:first-child').css('padding-left', '0');
 	$('#contact > p:first-child').css('float', 'none');
 }
-}
-}
