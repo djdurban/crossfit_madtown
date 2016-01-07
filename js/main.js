@@ -1,8 +1,8 @@
-if (window.location.pathname === '/_getting-started/2016-01-03-getting-started.markdown') {
-	$('p').css('float', 'left');
-	$('p').css('width', '73%');
-	$('p').css('padding-left', '2%');
-	$('h3 + p').css('width', '25%');
-	$('h3 + p').css('float', 'left');
+if (window.location.pathname === '/getting-started/2016-01-03-getting-started.html') {
+	$('#contact p').css('float', 'left');
+	$('#contact p').css('width', '73%');
+	$('#contact p').css('padding-left', '2%');
+	$('#contact h3 + p').css('width', '25%');
+	$('#contact h3 + p').css('float', 'left');
 
 }
