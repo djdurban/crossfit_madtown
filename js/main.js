@@ -7,5 +7,4 @@ if (pathname === '/getting-started/2016-01-03-getting-started.html') {
 	$('#contact h3 + p').css('width', '25%');
 	$('#contact h3 + p').css('float', 'left');
 	console.log('pathname');
-	
 }
