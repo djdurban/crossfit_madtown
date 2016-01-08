@@ -1,11 +1,24 @@
 <section id="site-menu">
 	<a href="#" class="toggle-nav" id="menu-close">X</a>
 	<div class="menu-links">
-	{% for nav_page in site.pages %}
-		{% if nav_page.navTitle %}
-			<a class="page-link" href="{{ nav_page.url | prepend: site.baseurl }}">{{ nav_page.title }}</a>
+		{% for nav_page in site.pages %}
+			{% if nav_page.navTitle && nav_page.dropdown === false %}
+				<a class="page-link" href="{{ nav_page.url | prepend: site.baseurl }}">{{ nav_page.title }}</a>
+			{% endif %}
+		{% else %}
+			<a class="page-link" role="button" data-toggle="collapse" href="{{ nav_page.id }}" aria-expanded="false">
+				{{ nav_page.title }}
+			</a>
+			
+			<div class="collapse" id="collapseExample">
+				{% for dropdown_page in site.pages %}
+					{% if dropdown_page.group %}
+					<a class="page-link" href="{{ dropdown_page.url | prepend: site.baseurl }}">{{ dropdown_page.title }}</a>
+					{% endif %}
+				{% endfor %}
+			</div>
 		{% endif %}
 	{% endfor %}
-	</div>
+</div>
 </section>
 <a href="#" class="toggle-nav btn" id="menu-btn">&#9776; MENU</a>
