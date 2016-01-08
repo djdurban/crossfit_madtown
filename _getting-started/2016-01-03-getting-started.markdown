@@ -21,12 +21,8 @@ At CrossFit Madtown, we focus on helping you reach your full athletic potential.
 
 No previous experience is necessary! Many of our regulars started at CrossFit Madtown with little to no experience. We will guide you through each workout and help you improve your form and technique during every class. Our coaches train you in everything from strength, to agility, to flexibility, and much more.
 
-&nbsp;
-
 ### How Do I Get Started?
 
 ![People Running]({{page.img3}})
 
 We recommend starting with our Introduction to Crossfit class. Most members spend 8-10 weeks in our Introduction to CrossFit class before they begin in the regular sessions. However, it is not required, and depending on your athletic abilities, you may able to start regular classes sooner. The first class is free, so contact us today to sign up!
-
-&nbsp;
