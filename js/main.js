@@ -8,7 +8,7 @@ if (pathname === '/getting-started/2016-01-03-getting-started.html') {
 	$('#contact h3 + p').css('float', 'left');
 	$('#contact h3 + p img').css('width', '100%');
 	$('#contact h3').css('clear', 'both');
-	$('p:first-child').css('width', '100%');
-	$('p:first-child').css('padding-left', '0');
-	$('p:first-child').css('float', 'none');
+	$('#contact > p:first-child').css('width', '100%');
+	$('#contact > p:first-child').css('padding-left', '0');
+	$('#contact > p:first-child').css('float', 'none');
 }
