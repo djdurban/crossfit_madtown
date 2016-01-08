@@ -4,13 +4,3 @@ title: Getting Started
 navTitle: true
 permalink: /getting-started/
 ---
-<ul class="nav nav-tabs" role="tablist">
-	{% for page in site.getting-started %}
-		<li role="presentation"><a href="{{ page.id }}" aria-controls="home" role="tab" data-toggle="tab">{{ page.title }}</a></li>
-	{% endfor %}
-</ul>
-<div class="tab-content">
-	{% for page in site.getting-started %}
-		<div role="tabpanel" class="tab-pane" id="{{ page.id }}">{{content}}</div>
-	{% endfor %}
-</div>

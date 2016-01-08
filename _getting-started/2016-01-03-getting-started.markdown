@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: internal
 title: About Crossfit
 date:  2016-01-03 20:39:42 -0800
 img1: "/images/abby_rings.jpg"
