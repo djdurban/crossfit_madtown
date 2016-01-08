@@ -1,6 +1,7 @@
 <section id="site-menu">
 	<a href="#" class="toggle-nav" id="menu-close">X</a>
 	<div class="menu-links">
+	{% assign sorted_pages = site.pages | sort:"name" %}
 	{% for nav_page in site.pages %}
 		{% if nav_page.navTitle %}
 			<a class="page-link" href="{{ nav_page.url | prepend: site.baseurl }}">{{ nav_page.title }}</a>

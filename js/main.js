@@ -6,10 +6,10 @@ if (pathname === '/getting-started/2016-01-03-getting-started.html') {
 	$('#contact p').css('padding-left', '2%');
 	$('#contact h3 + p').css('width', '25%');
 	$('#contact h3 + p').css('padding-left', '0');
-
 	$('#contact h3 + p').css('float', 'left');
 	$('#contact h3 + p img').css('width', '100%');
 	$('#contact h3').css('clear', 'both');
+	$('#contact h3').css('margin', '40px 0 20px 0');
 	$('#contact > p:first-child').css('width', '100%');
 	$('#contact > p:first-child').css('padding-left', '0');
 	$('#contact > p:first-child').css('float', 'none');
