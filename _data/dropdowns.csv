@@ -1,23 +1,23 @@
-title,type,group,id,permalink
-Getting Started,main,Getting Started,getting-started,
-About Crossfit,subNav,Getting Started,,/about-crossfit/
-Workout of the Day,subNav,Getting Started,,/workout-of-the-day/
-Athletic Performance Training,main,Athletic Performance Training,athletic-performance-training,
-Youth,subNav,Athletic Performance Training,,/youth-athletic-performance-training/
-High School,subNav,Athletic Performance Training,,/high-school-athletic-performance-training/
-Sport Specific,subNav,Athletic Performance Training,,/sport-specific-athletic-performance-training/
-"Camps, Clinics, and Workshops",main,camps-clinics-workshops,camps-clinics-workshops,
-Dates and Cost,subNav,camps-clinics-workshops,,/dates-and-cost/
-Advanced PAACT,subNav,camps-clinics-workshops,,/advanced-paact/
-Advanced Speed Development,subNav,camps-clinics-workshops,,/advanced-speed-development/
-Advanced Youth Development,subNav,camps-clinics-workshops,,/advanced-youth-development/
-Cross Country Strength and Conditioning,subNav,camps-clinics-workshops,,/cross-country-strength-and-conditioning/
-Football Strength and Conditioning,subNav,camps-clinics-workshops,,/football-strength-and-conditioning/
-High School Advanced Strength and Power Training,subNav,camps-clinics-workshops,,/high-school-advanced-strength-and-power-training/
-High School Intro to Strength and Power Training,subNav,camps-clinics-workshops,,/high-school-intro-to-strength-and-power-training/
-PAACT,subNav,camps-clinics-workshops,,/paact/
-Speed Development,subNav,camps-clinics-workshops,,/speed-development/
-Volleyball Strength and Conditioning,subNav,camps-clinics-workshops,,/volleyball-strength-and-conditioning/
-Youth Development,subNav,camps-clinics-workshops,,/youth-development/
-Crossfit,main,crossfit,crossfit,
-Intro to Crossfit,subNav,crossfit,,/intro-to-crossfit/
+title,type,group,id,permalink,order
+Getting Started,main,Getting Started,getting-started,,1
+About Crossfit,subNav,Getting Started,,/about-crossfit/,1
+Workout of the Day,subNav,Getting Started,,/workout-of-the-day/,2
+Athletic Performance Training,main,Athletic Performance Training,athletic-performance-training,,3
+Youth,subNav,Athletic Performance Training,,/youth-athletic-performance-training/,1
+High School,subNav,Athletic Performance Training,,/high-school-athletic-performance-training/,2
+Sport Specific,subNav,Athletic Performance Training,,/sport-specific-athletic-performance-training/,3
+"Camps, Clinics, and Workshops",main,camps-clinics-workshops,camps-clinics-workshops,,4
+Dates and Cost,subNav,camps-clinics-workshops,,/dates-and-cost/,1
+Advanced PAACT,subNav,camps-clinics-workshops,,/advanced-paact/,8
+Advanced Speed Development,subNav,camps-clinics-workshops,,/advanced-speed-development/,6
+Advanced Youth Development,subNav,camps-clinics-workshops,,/advanced-youth-development/,2
+Cross Country Strength and Conditioning,subNav,camps-clinics-workshops,,/cross-country-strength-and-conditioning/,9
+Football Strength and Conditioning,subNav,camps-clinics-workshops,,/football-strength-and-conditioning/,10
+High School Advanced Strength and Power Training,subNav,camps-clinics-workshops,,/high-school-advanced-strength-and-power-training/,4
+High School Intro to Strength and Power Training,subNav,camps-clinics-workshops,,/high-school-intro-to-strength-and-power-training/,3
+PAACT,subNav,camps-clinics-workshops,,/paact/,7
+Speed Development,subNav,camps-clinics-workshops,,/speed-development/,5
+Volleyball Strength and Conditioning,subNav,camps-clinics-workshops,,/volleyball-strength-and-conditioning/,11
+Youth Development,subNav,camps-clinics-workshops,,/youth-development/,1
+Crossfit,main,crossfit,crossfit,,2
+Intro to Crossfit,subNav,crossfit,,/intro-to-crossfit/,1,
