@@ -7,7 +7,7 @@
 				<a class="page-link" role="button" data-toggle="collapse" href="#{{ nav_item.id }}" aria-expanded="false">{{ nav_item.title }}</a>
 				<div class="collapse" id="{{ nav_item.id }}">
 					{% for dropdown in site.data.dropdowns %}
-						{% if dropdown.group == nav_item.group and dropdown.type == 'subNav' %}
+						{% if dropdown.group == nav_item.group and dropdown.type == 'subNav' | sort:"order" %}
 							<p><a href="{{ dropdown.permalink }}">{{ dropdown.title }}</a></p>
 						{% endif %}
 					{% endfor %}
