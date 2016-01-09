@@ -1,2 +1,3 @@
-group,id,permalink
--getting-started,about-crossfit,/about-crossfit/
+title,group,id,permalink
+-Getting Started
+-About Crossfit,getting-started,about-crossfit,/about-crossfit/
