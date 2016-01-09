@@ -4,7 +4,7 @@
 		
 		{% for nav_item in site.data.dropdowns %}
 			{% if nav_item.title && nav_item.group == 'false' %}
-				<a class="page-link" href="{{ nav_page.url | prepend: site.baseurl }}">{{ nav_page.title }}</a> P
+				<a class="page-link" href="{{ nav_item.id }}">{{ nav_item.title }}</a>
 			{% endif %}
 		{% endfor %}
 	</div>
