@@ -1,4 +1,8 @@
 title,type,group,id,permalink
--Getting Started,main,Getting Started,getting-started,
--About Crossfit,subNav,Getting Started,,/about-crossfit/
--Workout of the Day,subNav,Getting Started,,/workout-of-the-day/
+Getting Started,main,Getting Started,getting-started,
+About Crossfit,subNav,Getting Started,,/about-crossfit/
+Workout of the Day,subNav,Getting Started,,/workout-of-the-day/
+Athletic Performance Training,main,Athletic Performance Training,athletic-performance-training,
+Youth,subNav,Athletic Performance Training,,/youth-athletic-performance-training/
+High School,subNav,Athletic Performance Training,,/high-school-athletic-performance-training/
+Sport Specific,subNav,Athletic Performance Training,,/sport-specific-athletic-performance-training/
