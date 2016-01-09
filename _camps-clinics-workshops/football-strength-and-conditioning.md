@@ -2,6 +2,7 @@
 layout: post
 title: Football Strength and Conditioning
 date: 2016-01-04T00:00:00.000Z
+permalink: /football-strength-and-conditioning/
 ---
 
 This is a comprehensive, football specific training camp that is designed to get you ahead of your teammates/competition as well as to get you prepared for football tryouts and the season. Covers:

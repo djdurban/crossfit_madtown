@@ -2,6 +2,7 @@
 layout: post
 title: Advanced Youth Development
 date: 2016-01-04T00:00:00.000Z
+permalink: /advanced-youth-development/
 ---
 
 This training program was created for our advanced/elite youth athletes. We cover the same skills, follow the same philosophy as the youth development, but done at a faster pace and with more complex skills. Perfect for "tweens". Entry into this class by permission only.

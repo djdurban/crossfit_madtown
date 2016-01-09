@@ -2,6 +2,7 @@
 layout: post
 title: Advanced PAACT
 date: 2016-01-04T00:00:00.000Z
+permalink: /advanced-paact/
 ---
 
 Great conditioning class for all athletes. This fun class, is a mix of various training that never gets boring. Athletes are coached through various styles of jump training, multi directional speed, agilities, various core exercises and much more. Athletes will get in great shape
