@@ -1,5 +1,4 @@
 ---
-layout: 
 layout: post
 title: Dates and Cost
 permalink: /dates-and-cost/

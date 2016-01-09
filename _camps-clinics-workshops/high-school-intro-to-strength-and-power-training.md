@@ -1,7 +1,6 @@
 ---
 layout: post
 title: High School Intro to Strength and Power Training
-date: 2016-01-04T00:00:00.000Z
 permalink: /high-school-intro-to-strength-and-power-training/
 ---
 

@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Youth Development
-date: 2016-01-04T00:00:00.000Z
 permalink: /youth-development/
 ---
 
