@@ -11,6 +11,7 @@ h3 {
 
 p {
     font-weight: 300;
+    font-size: 1.5rem;
 }
 
 //Buttons
@@ -211,6 +212,7 @@ footer {
     padding: 1rem;
     background-color: $neutral-dark;
     color: $white;
+    margin-top: 6rem;
 
     input {
         &:first-child {

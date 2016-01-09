@@ -1,10 +1,11 @@
 ---
-layout: post
+layout: internal
 title: About Crossfit
 date:  2016-01-03 20:39:42 -0800
 img1: "/images/abby_rings.jpg"
 img2: "/images/handstand.jpg"
 img3: "/images/running.jpg"
+permalink: /about-crossfit/
 ---
 
 At CrossFit Madtown, we focus on helping you reach your full athletic potential. Whether you have never lifted a weight before, or you have been swinging kettlebells for years, we help you improve your form and increase your efficiency.

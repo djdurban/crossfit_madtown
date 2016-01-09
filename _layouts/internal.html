@@ -5,16 +5,21 @@ layout: default
 </div>
 <section id="header">
 	<div class="mask internal-mask">
-		<h1>{{page.group}}</h1>
+		<h1>
+		{% if page.group %}
+			{{page.group}}
+		{% else %}
+			{{page.title}}
+		{% endif %}
+		</h1>
 	</div>
 </section>
-<ul class="nav nav-tabs" role="tablist">
-	{% for page in site.getting-started %}
-		<li role="presentation"><a href="{{ page.id }}" aria-controls="home" role="tab" data-toggle="tab">{{ page.title }}</a></li>
-	{% endfor %}
-</ul>
-<div class="tab-content">
-	{% for page in site.getting-started %}
-		<div role="tabpanel" class="tab-pane" id="{{ page.id }}">{{ content }}</div>
-	{% endfor %}
-</div>
+<section id="main">
+	<div class="container">
+		<div class="row">
+			<div class="col-md-6 col-md-offset-3">
+				{{content}}
+			</div>
+		</div>
+	</div>
+</section>

@@ -1,4 +1,4 @@
-title,main,group,id
--Getting Started, true,Getting Started,getting-started
--About Crossfit,false, Getting Started,about-crossfit
--About Us,false, Getting Started,about-us
+title,type,group,id,permalink
+-Getting Started,main,Getting Started,getting-started,,
+-About Crossfit,subNav,Getting Started,,/about-crossfit/
+-Workout of the Day,subNav,Getting Started,,/workout-of-the-day/
