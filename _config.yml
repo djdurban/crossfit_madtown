@@ -23,3 +23,11 @@ collections:
                 type: "getting-started"
             values:
                 layout: "post"
+    crossfit:
+        output: true
+        defaults:
+            scope:
+                path: ""
+                type: "crossfit"
+            values:
+                layout: "post"
