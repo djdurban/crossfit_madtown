@@ -3,9 +3,10 @@
 	<div class="menu-links">
 		
 		{% for nav_item in site.data.dropdowns %}
-			{% if nav_item.title && nav_item.group == 'false' %}
+			{% if nav_item.title && nav_item.group == true %}
 				<a class="page-link" href="{{ nav_item.id }}">{{ nav_item.title }}</a>
 			{% endif %}
+			{% if nav_item.group %}
 		{% endfor %}
 	</div>
 </section>
