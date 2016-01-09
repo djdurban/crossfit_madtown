@@ -2,6 +2,7 @@
 layout: post
 title: Dates and Cost
 date: 2016-01-04T00:00:00.000Z
+permalink: /dates-and-cost/
 ---
 
 ### Session 1: June 15 - July 17th (5 wks)
