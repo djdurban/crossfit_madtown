@@ -1,12 +1,14 @@
 <section id="site-menu">
 	<a href="#" class="toggle-nav" id="menu-close">X</a>
 	<div class="menu-links">
-	{% for nav_page in site.pages %}
-		{% if nav_page.navTitle %}
-			<a class="page-link" href="{{ nav_page.url | prepend: site.baseurl }}">{{ nav_page.title }}</a>
-		{% endif %}
-	{% endfor %}
+		{% for nav_page in site.pages %}
+			{% if nav_page.navTitle %}
+				<a class="page-link" href="{{ nav_page.url | prepend: site.baseurl }}">{{ nav_page.title }}</a>
+			{% endif %}
+		{% endfor %}
+		{% for dropdown in site.data.dropdowns %}
+			<p>{{ dropdown.group }}: {{ dropdown.id }}, {{ dropdown.permalink }}</p>
+		{% endfor %}
 	</div>
 </section>
 <a href="#" class="toggle-nav btn" id="menu-btn">&#9776; MENU</a>
-
