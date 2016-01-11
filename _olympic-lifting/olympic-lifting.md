@@ -1,20 +1,34 @@
 ---
 layout: post
-title: Advanced PAACT
-permalink: /advanced-paact/
+title: Olympic Lifting
+permalink: /olympic-lifting/
 ---
 
-Great conditioning class for all athletes. This fun class, is a mix of various training that never gets boring. Athletes are coached through various styles of jump training, multi directional speed, agilities, various core exercises and much more. Athletes will get in great shape
-\*Must be cleared by Skipp or Keysha.
+&nbsp;If you’re looking to develop speed, acceleration, coordination, strength, and power, or if you simply want to up your fitness game, then Olympic Lifting with CrossFit MadTown is for you. Athletes will learn proper lifting technique, mechanics, breathing and body posture. Use this class as a method of non-competitive training and conditioning, or develop your technique so that you can compete on the MadTown Weight Lifting Club team—a team that won the 2011, 2014 and 2015 Wisconsin State Championships and has helped numerous athletes in qualifying for the USA National Championships.
 
-**Dates:**
-Session 1: June 15 - July 17th (5 wks)
-Session 2 July 20 - August 21th (5 wks)
+****
+
+Be on the team!
+To join the MadTown Weight Lifting Club team, you must first sign up for a USA Weightlifting membership . When registering, enter MadTown WLC as your club.&nbsp;
+
+**Weightlifting Training Cost**
+
+10-pack of Classes: $150
+
+3 Classes/Week: $90/month
+
+Unlimited adult classes (including CrossFit and Olympic Lifting): $150/month
+
+**Gender:**
+
+Male/Female
+
+**Ages:**
+
+17+
 
 **Days/Times:**
 
-Tuesday/Thursday: 11am
+Mondays & Wednesdays:&nbsp;****7pm - 8pm
 
-**Additional Details:**
-
-Gender: Male/Female
+Saturday: 10am - 12pm
