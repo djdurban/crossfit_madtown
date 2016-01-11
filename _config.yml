@@ -31,3 +31,11 @@ collections:
                 type: "crossfit"
             values:
                 layout: "post"
+    olympic-lifting:
+        output: true
+        defaults:
+            scope:
+                path: ""
+                type: "olympic-lifting"
+            values:
+                layout: "post"        
