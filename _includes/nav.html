@@ -3,7 +3,7 @@
 	<div class="menu-links">
 		
 		{% for nav_item in site.data.dropdowns %}
-			{% if nav_item.type == 'main' | nav_item.type sort:"order" %}
+			{% if nav_item.type == 'main' or nav_item.type == 'Main' or nav_item.type == 'MAIN' | nav_item.type sort:"order" %}
 				<a class="page-link" role="button" data-toggle="collapse" href="#{{ nav_item.id }}" aria-expanded="false">{{ nav_item.title }}</a>
 				<div class="collapse" id="{{ nav_item.id }}">
 					{% for dropdown in site.data.dropdowns %}
