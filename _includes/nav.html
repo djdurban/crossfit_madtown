@@ -5,7 +5,7 @@
 		{% for nav_item in site.data.dropdowns %}
 			{% if nav_item.type == 'main' or nav_item.type == 'Main' or nav_item.type == 'MAIN' | nav_item.type sort:"order" %}
 				{% if nav_item.permalink %}
-					<a class="page-link" role="button" data-toggle="collapse" href="{{ nav_item.permalink }}" aria-expanded="false">{{ nav_item.title }}</a>
+					<a class="page-link" href="{{ nav_item.permalink }}">{{ nav_item.title }}</a>
 				{% else %}
 					<a class="page-link" role="button" data-toggle="collapse" href="#{{ nav_item.id }}" aria-expanded="false">{{ nav_item.title }}</a>
 					<div class="collapse" id="{{ nav_item.id }}">
