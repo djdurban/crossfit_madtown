@@ -4,16 +4,19 @@
 		
 		{% for nav_item in site.data.dropdowns %}
 			{% if nav_item.type == 'main' or nav_item.type == 'Main' or nav_item.type == 'MAIN' | nav_item.type sort:"order" %}
-				<a class="page-link" role="button" data-toggle="collapse" href="#{{ nav_item.id }}" aria-expanded="false">{{ nav_item.title }}</a>
-				<div class="collapse" id="{{ nav_item.id }}">
-					{% for dropdown in site.data.dropdowns %}
-						{% if dropdown.group == nav_item.group and dropdown.type == 'subNav' | dropdown.group sort:"order" %}
-							<p><a href="{{ dropdown.permalink }}">{{ dropdown.title }}</a></p>
-						{% endif %}
-					{% endfor %}
-				</div>
+				{% if nav_item.url %}
+					<a class="page-link" role="button" data-toggle="collapse" href="#{{ nav_item.id }}" aria-expanded="false">{{ nav_item.url }}</a>
+				{% else %}
+					<a class="page-link" role="button" data-toggle="collapse" href="#{{ nav_item.id }}" aria-expanded="false">{{ nav_item.title }}</a>
+					<div class="collapse" id="{{ nav_item.id }}">
+						{% for dropdown in site.data.dropdowns %}
+							{% if dropdown.group == nav_item.group and dropdown.type == 'subNav' | dropdown.group sort:"order" %}
+								<p><a href="{{ dropdown.permalink }}">{{ dropdown.title }}</a></p>
+							{% endif %}
+						{% endfor %}
+					</div>
 			{% endif %}
-		{% endfor %}
+		% endfor %}
 	</div>
 </section>
 <a href="#" class="toggle-nav btn" id="menu-btn">&#9776; MENU</a>
