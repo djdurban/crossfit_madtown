@@ -1,5 +1,3 @@
-
-
 /*====================================
 =            ON DOM READY            =
 ====================================*/
@@ -27,7 +25,6 @@ $(function() {
 
 
 
-
 });
 
 
@@ -45,3 +42,7 @@ function toggleNav() {
 
 	//$('#site-wrapper').toggleClass('show-nav');
 }
+
+$('.page-link').on('click', function() {
+	$( this ).find('span').toggleClass('fa-chevron-down', 'fa-chevron-right');
+});

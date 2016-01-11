@@ -34,6 +34,9 @@
 	.feature-content {
 		max-width: 400px;
 		margin: 0 auto;
+		p {
+			min-height: 168px;
+		}
 	}
 
 	.bg-image-wrapper {

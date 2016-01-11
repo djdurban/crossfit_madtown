@@ -42,7 +42,6 @@
   top: 0;
   left: -300px;
   background: $x-neutral-light;
-  padding: 15px;
 }
 
 #menu-btn {
@@ -62,6 +61,14 @@
 #menu-close {
   display: block;
   float: right;
+  padding: .5rem 1rem;
+  color: $neutral-dark;
+  font-size: 1.75em;
+  margin-bottom: 1rem;
+
+  &:hover, &:focus, &:active {
+    color: darken($neutral-dark, 50%);
+  }
 }
 
 .menu-links {
@@ -70,4 +77,33 @@
 .page-link {
   display: block;
 }
+}
+
+//Navigation
+.page-link, .collapse-style a {
+    font-size: 16px;
+    color: $neutral-dark;
+    padding: 1rem;
+
+    &:hover, &:focus, &:active{
+        text-decoration: none;
+        background-color: darken($x-neutral-light, 4%);
+        color: $neutral-dark;
+    }
+                span {
+                    font-size: 12px;
+        padding-top: .6rem;
+    }
+}
+
+.collapse-style {
+
+    a {
+        padding: 1rem 2rem;
+        display: block;
+        &:hover, &:focus, &:active{
+        background-color: darken($x-neutral-light, 4%);
+    }
+
+    }
 }
