@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Cross Country Strength and Conditioning
+headerImage:
 permalink: /cross-country-strength-and-conditioning/
 ---
 

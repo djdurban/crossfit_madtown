@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Advanced Speed Development
+headerImage: 
 permalink: /advanced-speed-development/
 ---
 

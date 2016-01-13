@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Volleyball Strength and Conditioning
+headerImage:
 permalink: /volleyball-strength-and-conditioning/
 ---
 

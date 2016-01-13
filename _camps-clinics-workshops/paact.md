@@ -1,6 +1,7 @@
 ---
 layout: post
 title: PAACT
+headerImage:
 permalink: /paact/
 ---
 

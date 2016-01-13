@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Youth Athletic Performance Training
+headerImage: /images/about_image.jpg
 permalink: /youth-athletic-performance-training/
 ---
 

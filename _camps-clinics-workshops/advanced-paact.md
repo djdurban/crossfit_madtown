@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Advanced PAACT
+headerImage: 
 permalink: /advanced-paact/
 ---
 

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Speed Development
+headerImage:
 permalink: /speed-development/
 ---
 

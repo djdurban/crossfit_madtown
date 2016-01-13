@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Advanced Youth Development
+headerImage:
 permalink: /advanced-youth-development/
 ---
 

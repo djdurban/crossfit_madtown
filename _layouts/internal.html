@@ -1,7 +1,8 @@
 ---
 layout: default
 ---
-<div class="internal-header">
+<div class="internal-header" {% if page.headerImage %}style="background: url({{ page.headerImage }}) no-repeat; min-height: 15em; background-position: 0 -6em; background-size: cover;"
+{% endif %}>
 </div>
 <section id="header">
 	<div class="mask internal-mask">

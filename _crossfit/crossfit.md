@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Crossfit
+headerImage:
 permalink: /crossfit/
 ---
 

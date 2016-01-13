@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Football Strength and Conditioning
+headerImage:
 permalink: /football-strength-and-conditioning/
 ---
 

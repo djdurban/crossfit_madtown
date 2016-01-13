@@ -1,10 +1,19 @@
 ---
 layout: default
 ---
-<section class="bg-dark">
-  <div class="text-center">
-    <h1>{{ page.title }}</h1>
-  </div>
+<div class="internal-header" {% if page.headerImage %}style="background: url({{ page.headerImage }}) no-repeat; min-height: 15em; background-position: 0 -6em; background-size: cover;" {% else %}style="background: url(/images/default_bg.svg) no-repeat;"
+{% endif %}>
+</div>
+<section id="header">
+	<div class="mask internal-mask">
+		<h1>
+		{% if page.group %}
+			{{page.group}}
+		{% else %}
+			{{page.title}}
+		{% endif %}
+		</h1>
+	</div>
 </section>
 
 <section id="post">

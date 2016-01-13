@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Youth Development
+headerImage:
 permalink: /youth-development/
 ---
 

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Sport Specific Athletic Performance Training
+headerImage: /images/about_image.jpg
 permalink: /sport-specific-performance-training/
 ---
 

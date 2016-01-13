@@ -1,6 +1,7 @@
 ---
 layout: post
 title: High School Intro to Strength and Power Training
+headerImage:
 permalink: /high-school-intro-to-strength-and-power-training/
 ---
 

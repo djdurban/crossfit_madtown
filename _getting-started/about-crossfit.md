@@ -4,6 +4,7 @@ title: About Crossfit
 img1: "/images/abby_rings.jpg"
 img2: "/images/handstand.jpg"
 img3: "/images/running.jpg"
+headerImage: /images/about_image.jpg
 permalink: /about-crossfit/
 ---
 

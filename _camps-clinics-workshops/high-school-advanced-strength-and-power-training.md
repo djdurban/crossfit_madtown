@@ -1,6 +1,7 @@
 ---
 layout: post
 title: High School Advanced Strength and Power Training
+headerImage:
 permalink: /high-school-advanced-strength-and-power-training/
 ---
 

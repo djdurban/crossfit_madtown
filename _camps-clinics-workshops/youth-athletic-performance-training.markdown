@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Dates and Cost
+headerImage:
 permalink: /dates-and-cost/
 ---
 

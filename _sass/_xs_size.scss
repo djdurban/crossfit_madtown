@@ -1,5 +1,4 @@
----
----
+
 
 body {
     font-family: 'Work Sans', Helvetica, sans-serif;
@@ -144,7 +143,6 @@ p {
 }
 
 .bg-image-wrapper {
-    background-image: url("../images/about_image.jpg");
     background-size: cover;
     background-color: $overlay-color;
     background-position: fixed;
@@ -193,11 +191,8 @@ p {
 
 .internal-header {
     min-height: 15em;
-    background-image: url('{{page.headerImage}}');
     background-size: cover;
     background-position: 0 -6em;
-
-    
 }
 
 .mask.internal-mask {

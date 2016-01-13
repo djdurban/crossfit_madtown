@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Olympic Lifting
+headerImage:
 permalink: /olympic-lifting/
 ---
 
