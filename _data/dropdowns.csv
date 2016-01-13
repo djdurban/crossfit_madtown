@@ -1,4 +1,5 @@
 title,type,group,id,permalink,order
+Home,main,home,,/index.html,1
 Getting Started,main,Getting Started,getting-started,,2
 About Crossfit,subNav,Getting Started,,/about-crossfit/,1
 Workout of the Day,subNav,Getting Started,,/workout-of-the-day/,2
@@ -22,5 +23,5 @@ Youth Development,subNav,camps-clinics-workshops,,/youth-development/,1
 Crossfit,main,crossfit,crossfit,,3
 Intro to Crossfit,subNav,crossfit,,/intro-to-crossfit/,1
 Olympic Lifting,main,olympic-lifting,olympic-lifting,/olympic-lifting/,6
-Home,main,home,,/index.html,1
+
 
