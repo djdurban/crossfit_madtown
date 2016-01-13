@@ -1,7 +1,7 @@
 ---
 layout: post
 title: High School Athletic Performance Training
-permalink: /high-school-performance-training/
+permalink: /high-school-athletic-performance-training/
 headerImage: /images/abby_rings.jpg
 ---
 
