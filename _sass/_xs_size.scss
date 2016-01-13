@@ -1,3 +1,6 @@
+---
+---
+
 body {
     font-family: 'Work Sans', Helvetica, sans-serif;
     line-height: 1.6;
@@ -190,7 +193,7 @@ p {
 
 .internal-header {
     min-height: 15em;
-    background-image: url('/images/about_image.jpg');
+    background-image: url('{{page.headerImage}}');
     background-size: cover;
     background-position: 0 -6em;
 

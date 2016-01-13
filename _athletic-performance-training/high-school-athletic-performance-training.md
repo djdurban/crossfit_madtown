@@ -2,6 +2,7 @@
 layout: post
 title: High School Athletic Performance Training
 permalink: /high-school-performance-training/
+headerImage: /images/abby_rings.jpg
 ---
 
 ### &nbsp;
