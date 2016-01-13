@@ -3,6 +3,8 @@ Home,main,home,,/index.html
 Getting Started,main,Getting Started,getting-started,
 About Crossfit,subNav,Getting Started,,/about-crossfit/
 Workout of the Day,subNav,Getting Started,,/workout-of-the-day/
+Crossfit,main,crossfit,crossfit,
+Intro to Crossfit,subNav,crossfit,,/intro-to-crossfit/
 Athletic Performance Training,main,Athletic Performance Training,athletic-performance-training,
 Youth,subNav,Athletic Performance Training,,/youth-athletic-performance-training/
 High School,subNav,Athletic Performance Training,,/high-school-athletic-performance-training/
@@ -20,8 +22,6 @@ PAACT,subNav,camps-clinics-workshops,,/paact/
 Speed Development,subNav,camps-clinics-workshops,,/speed-development/
 Volleyball Strength and Conditioning,subNav,camps-clinics-workshops,,/volleyball-strength-and-conditioning/
 Youth Development,subNav,camps-clinics-workshops,,/youth-development/
-Crossfit,main,crossfit,crossfit,
-Intro to Crossfit,subNav,crossfit,,/intro-to-crossfit/
 Olympic Lifting,main,olympic-lifting,olympic-lifting,/olympic-lifting/
 
 
