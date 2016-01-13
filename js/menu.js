@@ -46,3 +46,8 @@ function toggleNav() {
 $('.page-link').on('click', function() {
 	$( this ).find('span').toggleClass('fa-chevron-down', 'fa-chevron-right');
 });
+
+
+$('#map').click(function () {
+    $('#map iframe').css("pointer-events", "auto");
+});
