@@ -1,14 +1,14 @@
 ---
 layout: post
 title: High School Athletic Performance Training
-permalink: /high-school-performance-training/
+permalink: /high-school-athletic-performance-training/
 ---
 
-### &nbsp;
+###
 
 ### High School Introduction to Strength & Power Training
 
-Since we often find that our style of training is a whole new beast for most athletes, all &nbsp;MadTown youth athletes ages 13-18 start in this program regardless of their lifting background/experience. Given our coaches’ background in training collegiate and professional athletes, we’ve created similar programs for youth offered in a fun, safe, professional and supervised environment. We help develop young athletes by improving their speed, power, strength, stamina, coordination, flexibility, core, quickness, agility, mental toughness and nutrition. We then enhance the athlete into a champion by emphasizing work ethic, encouraging a champion’s attitude and teaching athletes what it means to compete. Athletes will learn proper lifting technique, mechanics, breathing and body posture.
+Since we often find that our style of training is a whole new beast for most athletes, all  MadTown youth athletes ages 13-18 start in this program regardless of their lifting background/experience. Given our coaches’ background in training collegiate and professional athletes, we’ve created similar programs for youth offered in a fun, safe, professional and supervised environment. We help develop young athletes by improving their speed, power, strength, stamina, coordination, flexibility, core, quickness, agility, mental toughness and nutrition. We then enhance the athlete into a champion by emphasizing work ethic, encouraging a champion’s attitude and teaching athletes what it means to compete. Athletes will learn proper lifting technique, mechanics, breathing and body posture.
 
 Note: Strength & Power Training must be attended at least twice a week and on same days/times consistently to ensure neuromuscular facilitation, reduce rate of injury, and develop memory retention.
 
@@ -18,9 +18,9 @@ Note: Strength & Power Training must be attended at least twice a week and on sa
 
 **Days/Times:**
 
-Mon & Wed@5:30pm&nbsp; Tues & Thurs@ 4:30pm Saturdays @8am
+Mon & Wed@5:30pm  Tues & Thurs@ 4:30pm Saturdays @8am
 
-**Cost:**&nbsp;
+**Cost:**
 
 * 2 Training Sessions a week: $120 mo
 * 3 Training Sessions a week: $150mo
@@ -36,7 +36,7 @@ Gender: Male/Female
 
 Ages: 13-18
 
-&nbsp;
+
 
 ### Advanced Strength & Power Training
 
@@ -46,7 +46,7 @@ Note: Class entry requires that you pass a physical test where you successfully 
 
 **Seasons: Fall 2015 September 1st - November 28th**
 
-**Cost:**&nbsp;
+**Cost:**
 
 * 2 Training Sessions a week: $120 mo
 * 3 Training Sessions a week: $150mo
@@ -54,8 +54,7 @@ Note: Class entry requires that you pass a physical test where you successfully 
 * Unlimited Access to all Athletic Performance Training Classes (Strength & Power, Speed, P.A.C.C.T & Team OlympicWeightlifting): $200 mo
 
 
-\* Training sessions are 60 minutes in duration.
-\* All memberships are month-to-month. No hidden or additional fees.
+\* Training sessions are 60 minutes in duration.\* All memberships are month-to-month. No hidden or additional fees.
 
 **Days/Times:**
 
@@ -69,9 +68,9 @@ Gender: Male/Female
 
 Ages: 13-18
 
-&nbsp;
 
-### Speed Development&nbsp;
+
+### Speed Development
 
 Speed is one of the most valuable traits that an athlete can obtain. This class is taught by Coach Keysha Benzing, former Division I track and field athlete and elite runner. Her Speed Development training is done in a unique way, following the philosophy of “Run Smarter, Not Harder.” Athletes are made faster and more efficient by being taught proper running mechanics, the different phases in running/sprinting (e.g., acceleration, drive phase, max speed), proper force application/production, start technique, running posture and what it means to compete. This undulating program uses various state of the art training techniques and tools. Training can be joined at any time allowed by the extensive progressions and is open to all athletes ages 13 and up, of all ability levels from novice to elite. Coach Benzing also believes that while there are “ natural runners,” running is a skill that EVERYONE can be taught. Her program can help anyone become a more efficient, effective, faster, and more explosive sprinter/runner.
 
@@ -89,7 +88,7 @@ Athletes will get in great shape with this conditioning class for levels. Great 
 
 Speed: Mondays & Wednesdays @6:30=7:30pm Saturdays@9am
 
-**Cost:&nbsp;**
+**Cost:**
 
 * 2 Training Sessions a week: $120 mo
 * 3 Training Sessions a week: $150mo
@@ -97,9 +96,7 @@ Speed: Mondays & Wednesdays @6:30=7:30pm Saturdays@9am
 * Unlimited Access to all Athletic Performance Training Classes (Strength & Power, Speed, P.A.C.C.T & Team OlympicWeightlifting): $200 mo
 
 
-\* Training sessions are 60 minutes in duration.
-\* All memberships are month-to-month. No hidden or additional fees.
-&nbsp;
+\* Training sessions are 60 minutes in duration.\* All memberships are month-to-month. No hidden or additional fees.
 
 **P.A.C.C.T**
 
