@@ -5,8 +5,6 @@ permalink: /high-school-athletic-performance-training/
 headerImage: /images/abby_rings.jpg
 ---
 
-## &nbsp;
-
 ### High School Introduction to Strength & Power Training
 
 Since we often find that our style of training is a whole new beast for most athletes, all &nbsp;MadTown youth athletes ages 13-18 start in this program regardless of their lifting background/experience. Given our coaches’ background in training collegiate and professional athletes, we’ve created similar programs for youth offered in a fun, safe, professional and supervised environment. We help develop young athletes by improving their speed, power, strength, stamina, coordination, flexibility, core, quickness, agility, mental toughness and nutrition. We then enhance the athlete into a champion by emphasizing work ethic, encouraging a champion’s attitude and teaching athletes what it means to compete. Athletes will learn proper lifting technique, mechanics, breathing and body posture.
