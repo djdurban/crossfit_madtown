@@ -2,15 +2,12 @@
 <script src="/js/bootstrap.min.js"></script>
 <script src="/js/modernizr.custom.js"></script>
 <script src="/js/classie.js"></script>
-<script src="/js/vegas.js"></script>
+<script src="/js/unslider.js"></script>
 <script>
-	$("#vegas").vegas({
-	slides: [
-	{ src: "images/about_image.jpg" },
-	{ src: "images/getting_started.jpg" }
-	],
-	overlay: true
-	});
-</script>
+		jQuery(document).ready(function($) {
+			$('.slider').unslider();
+		});
+	</script>
+</body>
 <script src="/js/menu.js"></script>
 <script src="/js/main.js"></script>

@@ -2,7 +2,6 @@
 layout: post
 title: High School Athletic Performance Training
 permalink: /high-school-athletic-performance-training/
-headerImage: /images/abby_rings.jpg
 ---
 
 ### High School Introduction to Strength & Power Training
