@@ -1,23 +1,24 @@
 ---
 layout: default
 title: Home
-sliderImg1: /images/microhurdles.jpg
-sliderImg2: /images/wod.jpg
-sliderImg3: /images/carli_rings2.jpg
-sliderImg4: /images/group.jpg
-sliderImg5: /images/handstand_comp.jpg
+sliderImg1: /images/header/carli_rings2.jpg
+sliderImg2: /images/header/wod.jpg
+sliderImg3: /images/header/slider1.jpg
+sliderImg4: /images/header/slider2.jpg
+sliderImg5: /images/header/slider4.jpg
 ---
-<div class="slider">
-	<ul>
-		<li><img src="{{page.sliderImg1}}"></li>
-		<li><img src="{{page.sliderImg2}}"></li>
-		<li><img src="{{page.sliderImg3}}"></li>
-		<li><img src="{{page.sliderImg4}}"></li>
-		<li><img src="{{page.sliderImg5}}"></li>
-	</ul>
+<div class="owl-carousel">
+		<div id="slider1" style="background: url('{{page.sliderImg1}}') 0 0 no-repeat; background-size: cover;"></div>
+		<div id="slider2" style="background: url('{{page.sliderImg2}}') 0 0 no-repeat; background-size: cover;"></div>
+		<div id="slider3" style="background: url('{{page.sliderImg3}}') 0 0 no-repeat; background-size: cover;"></div>
+		<div id="slider4" style="background: url('{{page.sliderImg4}}') 0 0 no-repeat; background-size: cover;"></div>
+		<div id="slider5" style="background: url('{{page.sliderImg5}}') 0 0 no-repeat; background-size: cover;"></div>
 </div>
 <section id="header">
 <div class="mask">
+	<div id="home-logo">
+		<img src="/images/logo.svg" alt="CrossFit Madtown Logo">
+	</div>
 	<h1 id="siteTitle"><span>CROSSFIT</span><span>MA<span>DTO</span>WN</span></h1>
 	<h2 class="editable">We're a <span>weightlifting</span> gym with a <span>CrossFit</span> problem.</h2>
 </div>

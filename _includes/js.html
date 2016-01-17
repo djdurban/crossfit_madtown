@@ -1,13 +1,24 @@
 <script src="/js/jquery-2.1.4.min.js"></script>
 <script src="/js/bootstrap.min.js"></script>
-<script src="/js/modernizr.custom.js"></script>
+<!-- <script src="/js/modernizr.custom.js"></script>
 <script src="/js/classie.js"></script>
-<script src="/js/unslider.js"></script>
+-->
+<script src="/js/owl.carousel.min.js"></script>
 <script>
-		jQuery(document).ready(function($) {
-			$('.slider').unslider();
-		});
-	</script>
-</body>
+$(document).ready(function(){
+  $('.owl-carousel').owlCarousel({
+    loop:true,
+    margin:10,
+    responsive:{
+        0:{
+            items:1
+        }
+        
+    },
+    autoplay: true,
+    animateOut: 'fadeOut',
+})
+});
+</script>
 <script src="/js/menu.js"></script>
 <script src="/js/main.js"></script>

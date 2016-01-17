@@ -54,16 +54,29 @@ p {
     background: $overlay-color;
 }
 
-.vegas-container {
+#carousel, .owl-item {
     min-height: 20rem;
 }
+    #slider1, #slider2, #slider3, #slider4, #slider5 {
+  min-height: 20rem;
+}
+
+#home-logo{
+    width: 10em;
+    position: absolute;
+    img {
+        width: 100%;
+    }
+}
+
+
 
 .mask {
     min-height: 20rem;
 
     #siteTitle {
         color: $white;
-        padding: 6rem 0 0 0;
+        padding: 10rem 0 0 0;
         margin: 0;
         font-size: 3rem;
         text-align: center;
