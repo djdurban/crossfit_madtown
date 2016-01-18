@@ -66,7 +66,7 @@ p {
     max-width: 10em;
     margin: 0 auto;
     padding-top: 1rem;
-    
+
 
     img {
         width: 100%;
@@ -212,13 +212,43 @@ p {
     background-position: 0 -6em;
 }
 
+.internal-logo {
+    position: absolute;
+    z-index: 2;
+    top: .75em;
+
+    img {
+    width: 32px;
+    display: inline-block;
+    vertical-align: middle;
+    margin-left: 4em;
+    opacity: .85;
+  }
+
+  p {
+    display: inline-block;
+    font-size: 1.5em;
+    text-transform: uppercase;
+        vertical-align: middle;
+
+    margin-right: 1em;
+    margin-bottom: 0;
+    color: $white;
+    opacity: .85;
+
+    span{
+      font-weight: 600;
+    }
+  }
+}
+
 .mask.internal-mask {
     min-height: 15em;
     h1 {
         margin: 0;
         font-size: 3rem;
         text-align: center;
-        padding-top: 1.9em;
+        padding-top: 2.7em;
         max-width: 75%;
         margin: 0 auto;
         text-transform: uppercase;

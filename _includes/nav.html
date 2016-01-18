@@ -22,4 +22,12 @@
 		{% endfor %}
 	</div>
 </section>
-<a href="#" class="toggle-nav btn" id="menu-btn"><span class="fa fa-bars"></span></a>
+<a href="#" class="toggle-nav btn" id="menu-btn"><span class="fa fa-bars"></span>
+</a>
+
+{% if page.layout == 'internal' or page.layout == 'post' %}
+	<div class="internal-logo">
+			<img src="/images/logo-head.svg" alt="CrossFit Madtown Logo"> 
+			<p>Crossfit<span>Madtown</span></p>
+	</div>
+{% endif %}

@@ -47,8 +47,8 @@
 #menu-btn {
   display: block;
   position: absolute;
-  z-index: 2;
-  margin: 0 auto;
+  z-index: 3;
+  top: .5em;
   font-size: 1.5em;
   font-weight: 300;
   color: $white;
@@ -61,6 +61,7 @@
 #menu-close {
   display: block;
   float: right;
+  margin-top: .4em;
   padding: .5rem 1rem;
   color: $neutral-dark;
   font-size: 1.75em;
