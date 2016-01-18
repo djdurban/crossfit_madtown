@@ -1,20 +1,31 @@
-@media screen and (min-width: 992px){
-	#slider1, #slider2, #slider3, #slider4, #slider5 {
-		min-height: 40rem;
-	}
-	.mask {
-		min-height: 40rem;
-		#siteTitle {
-			font-size: 7rem;
-			padding-top: 14rem;
-		}
-		h2 {
-			font-size: 2rem;
-		}
-	}
-	.feature-content {
-		p {
-			min-height: 120px;
-		}
-	}
+@media screen and (min-width: 992px) {
+    #slider1,
+    #slider2,
+    #slider3,
+    #slider4,
+    #slider5 {
+        min-height: 40rem;
+    }
+    #home-logo {
+        width: 35%;
+        max-width: 20em;
+        margin: 0 auto;
+        padding-top: 4rem;
+    }
+
+    .mask {
+        min-height: 40rem;
+        #siteTitle {
+            font-size: 7rem;
+            opacity: 50%;
+        }
+        h2 {
+            font-size: 2rem;
+        }
+    }
+    .feature-content {
+        p {
+            min-height: 120px;
+        }
+    }
 }
