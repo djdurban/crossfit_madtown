@@ -6,6 +6,7 @@ sliderImg2: /images/header/wod.jpg
 sliderImg3: /images/header/slider1.jpg
 sliderImg4: /images/header/slider2.jpg
 sliderImg5: /images/header/slider4.jpg
+backgroundImage: /images/header/slider4.jpg
 ---
 <div class="owl-carousel">
 		<div id="slider1" style="background: url('{{page.sliderImg1}}') 0 0 no-repeat; background-size: cover;"></div>
@@ -63,7 +64,7 @@ sliderImg5: /images/header/slider4.jpg
 	</div>
 </div>
 </section>
-<section class="bg-image-wrapper">
+<section class="bg-image-wrapper" {% if page.backgroundImage %} style="background-image: url('{{page.backgroundImage}}'); "{% endif %}>
 <div class="overlay-secondary">
 	<h3>Testimonials</h3>
 	<div class="testimonial">

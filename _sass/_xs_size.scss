@@ -161,8 +161,7 @@ p {
 
 .bg-image-wrapper {
     background-size: cover;
-    background-color: $overlay-color;
-    background-position: fixed;
+    background-attachment: fixed;
 
     .overlay-secondary {
         color: $white;
