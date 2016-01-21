@@ -4,7 +4,7 @@
 		
 
 		{% for page in site.data.sitePages %}
-			{% for nav_item in page %}
+
 				{% if nav_item.type == 'main' or nav_item.type == 'Main' or nav_item.type == 'MAIN' %}
 					{% if nav_item.permalink %}
 						<a class="page-link" href="{{ nav_item.permalink }}">{{ nav_item.title }}</a>
@@ -19,7 +19,6 @@
 						</div>
 					{% endif %}
 				{% endif %}
-				{% endfor %}
 		{% endfor %}
 	</div>
 </section>
