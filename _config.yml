@@ -38,4 +38,12 @@ collections:
                 path: ""
                 type: "olympic-lifting"
             values:
+                layout: "post"
+    hot-mammas:
+        output: true
+        defaults:
+            scope:
+                path: ""
+                type: "hot-mammas"
+            values:
                 layout: "post"        
