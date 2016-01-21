@@ -3,7 +3,7 @@
 	<div class="menu-links">
 		
 
-		{% for nav_item in site.data.dropdowns %}
+		{% for nav_item in site.data.dropdowns or site.data.getting-started %}
 
 			{% if nav_item.type == 'main' or nav_item.type == 'Main' or nav_item.type == 'MAIN' %}
 				{% if nav_item.permalink %}

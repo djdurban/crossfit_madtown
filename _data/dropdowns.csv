@@ -1,8 +1,5 @@
 title,type,group,id,permalink
 Home,main,home,,/index.html
-Getting Started,main,Getting Started,getting-started,
-About Crossfit,subNav,Getting Started,,/about-crossfit/
-Workout of the Day,subNav,Getting Started,,/workout-of-the-day/
 Crossfit,main,crossfit,crossfit,
 Intro to Crossfit,subNav,crossfit,,/intro-to-crossfit/
 Athletic Performance Training,main,Athletic Performance Training,athletic-performance-training,
