@@ -2,12 +2,108 @@
 	<a href="#" class="toggle-nav" id="menu-close"><span class="fa fa-times"></span></a>
 	<div class="menu-links">
 		
+		<a class="page-link" href="/index.html">Home</a>
+		{% for nav_item in site.data.getting-started %}
 
-		{% for page in site.data %}
-			{% capture number %}{{ forloop.length }}{% endcapture %}
-			{% for navItem in page %}
-				{{page.navItem}}
-			{% endfor %}
+			{% if nav_item.type == 'main' or nav_item.type == 'Main' or nav_item.type == 'MAIN' %}
+				{% if nav_item.permalink %}
+					<a class="page-link" href="{{ nav_item.permalink }}">{{ nav_item.title }}</a>
+				{% else %}
+					<a class="page-link" role="button" data-toggle="collapse" href="#{{ nav_item.id }}" aria-expanded="false">{{ nav_item.title }}<span class="fa fa-chevron-right pull-right"></span></a>
+					<div class="collapse collapse-style" id="{{ nav_item.id }}">
+						{% for dropdown in site.data.getting-started %}
+							{% if dropdown.group == nav_item.group and dropdown.type == 'subNav' %}
+								<a href="{{ dropdown.permalink }}">{{ dropdown.title }}</a>
+							{% endif %}
+						{% endfor %}
+					</div>
+				{% endif %}
+			{% endif %}
+		{% endfor %}
+		{% for nav_item in site.data.crossfit %}
+
+			{% if nav_item.type == 'main' or nav_item.type == 'Main' or nav_item.type == 'MAIN' %}
+				{% if nav_item.permalink %}
+					<a class="page-link" href="{{ nav_item.permalink }}">{{ nav_item.title }}</a>
+				{% else %}
+					<a class="page-link" role="button" data-toggle="collapse" href="#{{ nav_item.id }}" aria-expanded="false">{{ nav_item.title }}<span class="fa fa-chevron-right pull-right"></span></a>
+					<div class="collapse collapse-style" id="{{ nav_item.id }}">
+						{% for dropdown in site.data.crossfit %}
+							{% if dropdown.group == nav_item.group and dropdown.type == 'subNav' %}
+								<a href="{{ dropdown.permalink }}">{{ dropdown.title }}</a>
+							{% endif %}
+						{% endfor %}
+					</div>
+				{% endif %}
+			{% endif %}
+		{% endfor %}
+		{% for nav_item in site.data.hot-mammas %}
+
+			{% if nav_item.type == 'main' or nav_item.type == 'Main' or nav_item.type == 'MAIN' %}
+				{% if nav_item.permalink %}
+					<a class="page-link" href="{{ nav_item.permalink }}">{{ nav_item.title }}</a>
+				{% else %}
+					<a class="page-link" role="button" data-toggle="collapse" href="#{{ nav_item.id }}" aria-expanded="false">{{ nav_item.title }}<span class="fa fa-chevron-right pull-right"></span></a>
+					<div class="collapse collapse-style" id="{{ nav_item.id }}">
+						{% for dropdown in site.data.hot-mammas %}
+							{% if dropdown.group == nav_item.group and dropdown.type == 'subNav' %}
+								<a href="{{ dropdown.permalink }}">{{ dropdown.title }}</a>
+							{% endif %}
+						{% endfor %}
+					</div>
+				{% endif %}
+			{% endif %}
+		{% endfor %}
+		{% for nav_item in site.data.athletic-performance-training %}
+
+			{% if nav_item.type == 'main' or nav_item.type == 'Main' or nav_item.type == 'MAIN' %}
+				{% if nav_item.permalink %}
+					<a class="page-link" href="{{ nav_item.permalink }}">{{ nav_item.title }}</a>
+				{% else %}
+					<a class="page-link" role="button" data-toggle="collapse" href="#{{ nav_item.id }}" aria-expanded="false">{{ nav_item.title }}<span class="fa fa-chevron-right pull-right"></span></a>
+					<div class="collapse collapse-style" id="{{ nav_item.id }}">
+						{% for dropdown in site.data.athletic-performance-training %}
+							{% if dropdown.group == nav_item.group and dropdown.type == 'subNav' %}
+								<a href="{{ dropdown.permalink }}">{{ dropdown.title }}</a>
+							{% endif %}
+						{% endfor %}
+					</div>
+				{% endif %}
+			{% endif %}
+		{% endfor %}
+		{% for nav_item in site.data.camps-clinics-workshops %}
+
+			{% if nav_item.type == 'main' or nav_item.type == 'Main' or nav_item.type == 'MAIN' %}
+				{% if nav_item.permalink %}
+					<a class="page-link" href="{{ nav_item.permalink }}">{{ nav_item.title }}</a>
+				{% else %}
+					<a class="page-link" role="button" data-toggle="collapse" href="#{{ nav_item.id }}" aria-expanded="false">{{ nav_item.title }}<span class="fa fa-chevron-right pull-right"></span></a>
+					<div class="collapse collapse-style" id="{{ nav_item.id }}">
+						{% for dropdown in site.data.camps-clinics-workshops %}
+							{% if dropdown.group == nav_item.group and dropdown.type == 'subNav' %}
+								<a href="{{ dropdown.permalink }}">{{ dropdown.title }}</a>
+							{% endif %}
+						{% endfor %}
+					</div>
+				{% endif %}
+			{% endif %}
+		{% endfor %}
+			{% for nav_item in site.data.olympic-lifting %}
+
+			{% if nav_item.type == 'main' or nav_item.type == 'Main' or nav_item.type == 'MAIN' %}
+				{% if nav_item.permalink %}
+					<a class="page-link" href="{{ nav_item.permalink }}">{{ nav_item.title }}</a>
+				{% else %}
+					<a class="page-link" role="button" data-toggle="collapse" href="#{{ nav_item.id }}" aria-expanded="false">{{ nav_item.title }}<span class="fa fa-chevron-right pull-right"></span></a>
+					<div class="collapse collapse-style" id="{{ nav_item.id }}">
+						{% for dropdown in site.data.olympic-lifting %}
+							{% if dropdown.group == nav_item.group and dropdown.type == 'subNav' %}
+								<a href="{{ dropdown.permalink }}">{{ dropdown.title }}</a>
+							{% endif %}
+						{% endfor %}
+					</div>
+				{% endif %}
+			{% endif %}
 		{% endfor %}
 	</div>
 </section>
