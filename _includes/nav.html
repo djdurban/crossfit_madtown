@@ -3,11 +3,11 @@
 	<div class="menu-links">
 		
 
-		{% for page in site.data.sitePages %}
-				{% for nav_item in page %}
-				test
-				{% endfor %}
-				
+		{% for page in site.data %}
+			{% capture number %}{{ forloop.length }}{% endcapture %}
+			{% for navItem in page %}
+				{{page.navItem}}
+			{% endfor %}
 		{% endfor %}
 	</div>
 </section>
