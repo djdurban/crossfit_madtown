@@ -88,7 +88,7 @@
 				{% endif %}
 			{% endif %}
 		{% endfor %}
-			{% for nav_item in site.data.olympic-lifting %}
+		{% for nav_item in site.data.olympic-lifting %}
 
 			{% if nav_item.type == 'main' or nav_item.type == 'Main' or nav_item.type == 'MAIN' %}
 				{% if nav_item.permalink %}
@@ -97,6 +97,23 @@
 					<a class="page-link" role="button" data-toggle="collapse" href="#{{ nav_item.id }}" aria-expanded="false">{{ nav_item.title }}<span class="fa fa-chevron-right pull-right"></span></a>
 					<div class="collapse collapse-style" id="{{ nav_item.id }}">
 						{% for dropdown in site.data.olympic-lifting %}
+							{% if dropdown.group == nav_item.group and dropdown.type == 'subNav' %}
+								<a href="{{ dropdown.permalink }}">{{ dropdown.title }}</a>
+							{% endif %}
+						{% endfor %}
+					</div>
+				{% endif %}
+			{% endif %}
+		{% endfor %}
+		{% for nav_item in site.data.gallery %}
+
+			{% if nav_item.type == 'main' or nav_item.type == 'Main' or nav_item.type == 'MAIN' %}
+				{% if nav_item.permalink %}
+					<a class="page-link" href="{{ nav_item.permalink }}">{{ nav_item.title }}</a>
+				{% else %}
+					<a class="page-link" role="button" data-toggle="collapse" href="#{{ nav_item.id }}" aria-expanded="false">{{ nav_item.title }}<span class="fa fa-chevron-right pull-right"></span></a>
+					<div class="collapse collapse-style" id="{{ nav_item.id }}">
+						{% for dropdown in site.data.gallery %}
 							{% if dropdown.group == nav_item.group and dropdown.type == 'subNav' %}
 								<a href="{{ dropdown.permalink }}">{{ dropdown.title }}</a>
 							{% endif %}

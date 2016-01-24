@@ -46,4 +46,12 @@ collections:
                 path: ""
                 type: "hot-mammas"
             values:
+                layout: "post"
+    gallery:
+        output: true
+        defaults:
+            scope:
+                path: ""
+                type: "gallery"
+            values:
                 layout: "post"        
