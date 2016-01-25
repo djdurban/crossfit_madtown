@@ -54,4 +54,4 @@ collections:
                 path: ""
                 type: "gallery"
             values:
-                layout: "post"        
+                layout: "gallery"        

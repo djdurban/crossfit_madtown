@@ -1,30 +1,14 @@
 ---
-layout: post
+layout: gallery
 title: Gallery
 navTitle: true
 ---
 
-<div class="container">
-  <div class="row">
-    <h1>Bootstrap 3 Lightbox using Modal</h1>
     <div class="row">
-      <div class="col-lg-3 col-sm-4 col-6"><a href="#" title="Image 1"><img src="//placehold.it/600x350" class="thumbnail img-responsive"></a></div>
-      <div class="col-lg-3 col-sm-4 col-6"><a href="#" title="Image 2"><img src="//placehold.it/600x350/2255EE" class="thumbnail img-responsive"></a></div>
-      <div class="col-lg-3 col-sm-4 col-6"><a href="#" title="Image 3"><img src="//placehold.it/600x350/449955/FFF" class="thumbnail img-responsive"></a></div>
-      <div class="col-lg-3 col-sm-4 col-6"><a href="#" title="Image 4"><img src="//placehold.it/600x350/992233" class="thumbnail img-responsive"></a></div>
-      <div class="col-lg-3 col-sm-4 col-6"><a href="#" title="Image 5"><img src="//placehold.it/600x350/2255EE" class="thumbnail img-responsive"></a></div>
-      <div class="col-lg-3 col-sm-4 col-6"><a href="#" title="Image 6"><img src="//placehold.it/600x350/449955/FFF" class="thumbnail img-responsive"></a></div>
-      <div class="col-lg-3 col-sm-4 col-6"><a href="#" title="Image 8"><img src="//placehold.it/600x350/777" class="thumbnail img-responsive"></a></div>
-      <div class="col-lg-3 col-sm-4 col-6"><a href="#" title="Image 9"><img src="//placehold.it/600x350/992233" class="thumbnail img-responsive"></a></div>
-      <div class="col-lg-3 col-sm-4 col-6"><a href="#" title="Image 10"><img src="//placehold.it/600x350/EEE" class="thumbnail img-responsive"></a></div>
-      <div class="col-lg-3 col-sm-4 col-6"><a href="#" title="Image 11"><img src="//placehold.it/600x350/449955/FFF" class="thumbnail img-responsive"></a></div>
-      <div class="col-lg-3 col-sm-4 col-6"><a href="#" title="Image 12"><img src="//placehold.it/600x350/DDD" class="thumbnail img-responsive"></a></div>
-      <div class="col-lg-3 col-sm-4 col-6"><a href="#" title="Image 13"><img src="//placehold.it/600x350/992233" class="thumbnail img-responsive"></a></div>
+    {% for image in site.data.gallery-images %}
+      <div class="col-lg-3 col-sm-4 col-6"><a href="#" title="{{image.title}}"><img src="{{image.url}}" class="thumbnail img-responsive"></a></div>
+    {% endfor %}
     </div>
-    <hr>
-    <a href="http://bootply.com/71401">Edit on Bootply</a>
-    <hr>
-  </div>
 </div>
 <div id="myModal" class="modal fade" tabindex="-1" role="dialog">
   <div class="modal-dialog">
