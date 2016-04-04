@@ -7,6 +7,8 @@ permalink: /intro-to-crossfit/
 
 This fundamentals-focused class is a great way to break your way into CrossFit style training. It has all that the CrossFit class has to offer but designed for the beginner or for some who may have some special training circumstances. We recommend taking this class for at least a month or two before moving into the CrossFit classes to gain a base knowledge and comfort with the different movements used commonly in class. Note: First class is free! Contact us for more information.
 
+****
+
 **Crossfit Training Cost**
 
 10-pack of Classes: $150

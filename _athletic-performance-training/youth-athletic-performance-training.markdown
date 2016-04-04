@@ -5,15 +5,15 @@ headerImage: /images/about_image.jpg
 permalink: /youth-athletic-performance-training/
 ---
 
-### &nbsp;
-
 ### **Introduction to Developmental Strength and Conditioning**
 
-The base foundation is the most important aspect to an athlete’s future success. Thursday's program is designed to help the young budding athlete to learn the athletic skills necessary to be successful at any sport. In class, we will help your child learn how to properly jump, run, tumble, jump rope, be more agile, develop speed and properly handle their own body weight though bodyweight strength training exercises.
+The base foundation is the most important aspect to an athlete\'s future success. Thursday\'s program is designed to help the young budding athlete to learn the athletic skills necessary to be successful at any sport. In class, we will help your child learn how to properly jump, run, tumble, jump rope, be more agile, develop speed and properly handle their own body weight though bodyweight strength training exercises.
+
+****
 
 **Seasons: Fall 2015 September 1st - November 28th**
 
-**Cost:&nbsp;**
+**Cost:**
 
 * 2 Training Sessions a week: $120 mo
 * 3 Training Sessions a week: $150mo
@@ -32,17 +32,16 @@ Gender: Male/Female
 
 Ages: 8-12
 
-&nbsp;
 
 ### Advanced Youth Strength and Conditioning
 
-Perfect for “tweens,” this training program was created for our advanced/elite youth athletes. We cover the same skills and follow the same philosophy as in Youth Developmental Strength & Conditioning, but the class is carried out at an accelerated pace, focusing on more complex skills.
+Perfect for \"tweens,\" this training program was created for our advanced/elite youth athletes. We cover the same skills and follow the same philosophy as in Youth Developmental Strength & Conditioning, but the class is carried out at an accelerated pace, focusing on more complex skills.
 
 **Requirements necessary for program entry, include:**
 
 Must be between the ages of 10-12 years old
 
-Trained one or more years at &nbsp;MadTown
+Trained one or more years at MadTown
 
 Ability to: Successfully demonstrate a snatch/ clean and jerk w/ dowel, kip pull up, speed drills, rope climb, double-unders and squat (front, back & overhead).
 
@@ -50,7 +49,7 @@ Advanced Youth athletes are also allowed access to Speed Development, P.A.C.C.T 
 
 **Seasons: Fall 2015 September 1st - November 28th**
 
-**Cost:&nbsp;**
+**Cost:**
 
 * 2 Training Sessions a week: $120 mo
 * 3 Training Sessions a week: $150mo

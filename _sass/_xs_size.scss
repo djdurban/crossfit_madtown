@@ -11,9 +11,9 @@ h3 {
     font-size: 2rem;
 }
 
-p {
+p, li{
     font-weight: 300;
-    font-size: 1.5rem;
+    font-size: 1.6rem;
 }
 
 //Buttons
@@ -264,6 +264,11 @@ p {
 
 #post {
     padding-top: 6rem;
+
+    h3 {
+        margin-top: 3em;
+        margin-bottom: 1em;
+    }
 }
 
 //Footer
@@ -344,19 +349,28 @@ footer {
     }
 }
 
-.modal-dialog {width:600px;}
-.thumbnail {margin-bottom:6px;}
+.modal-wrapper {
+    display: none;
+}
 
-    
-.blur {
-    box-shadow: 0px 0px 20px 20px rgba(255,255,255,1);
-    text-shadow: 0px 0px 10px rgba(51, 51, 51, 0.9);
-    transform: scale(0.9);
-    opacity: 0.6;
-    -webkit-filter: blur(2px);
-    -moz-filter: blur(2px);
-    -o-filter: blur(2px);
-    -ms-filter: blur(2px);
-    filter: blur(2px);
+.modal-open {
+    display: block;
+    position: fixed;
+    background-color: rgba(0,0,0,.5);
+    z-index: 4;
+    width: 100%;
+    left: 0;
+    top: 0;
+}
+
+.modal-body {
+    width: 90%;
+    margin: 0 auto;
+    background-color: #000;
+    margin-top: 4em;
+
+    img {
+        width: 100%;
+    }
 }
 

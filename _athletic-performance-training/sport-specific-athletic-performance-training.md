@@ -2,10 +2,8 @@
 layout: post
 title: Sport Specific Athletic Performance Training
 headerImage: /images/about_image.jpg
-permalink: /sport-specific-performance-training/
+permalink: /sport-specific-athletic-performance-training/
 ---
-
-### &nbsp;
 
 ### Basketball Preseason Strength and Conditioning Program
 
@@ -25,7 +23,6 @@ Gender: Male/Female
 
 Ages:
 
-&nbsp;
 
 ### Swim Dry Land Training Program
 
@@ -45,11 +42,8 @@ Ages:
 
 Cost: $225
 
-&nbsp;
 
 ### Track Preseason Strength and Conditioning Program
-
-### &nbsp;
 
 **Dates:**
 
@@ -69,11 +63,8 @@ Ages:
 
 Cost: $450
 
-&nbsp;
 
 ### Baseball & Softball Pre Season Strength & Conditioning Training
-
-&nbsp;
 
 **Dates:**
 

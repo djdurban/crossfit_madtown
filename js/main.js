@@ -32,3 +32,53 @@ if (pathname === '/about-crossfit/') {
 	$('#main h3 + p img').css(leftPImg);
 	$('#main h3').css(heading);
 }
+
+
+
+$('#thumbnails ul li a').click(function(e){
+	e.preventDefault();
+	var linkId = $(this).attr('data-ui');
+	var modalId = $('#' + linkId);
+	if(linkId === modalId.attr('id')){
+		$('.modal-wrapper').toggleClass('modal-open');
+		$('.modal-open').css('height', $( window ).height());
+
+	}
+
+	$('.modal-open').click(function(){
+		$(this).removeClass('modal-open');
+	});	
+
+});
+
+var interval = undefined;
+$(document).ready(function () {
+    interval = setInterval(getNext, 2000); // milliseconds
+    $('#next').on('click', getNext);
+    $('#prev').on('click', getPrev);
+});
+
+function getNext() {
+    var $curr = $('.slideshow img:visible'),
+        $next = ($curr.next().length) ? $curr.next() : $('.slideshow img').first();
+
+    transition($curr, $next);
+}
+
+function getPrev() {
+    var $curr = $('.slideshow img:visible'),
+        $next = ($curr.prev().length) ? $curr.prev() : $('.slideshow img').last();
+    transition($curr, $next);
+}
+
+function transition($curr, $next) {
+    clearInterval(interval);
+
+    $next.css('z-index', 2).fadeIn('slow', function () {
+        $curr.hide().css('z-index', 0);
+        $next.css('z-index', 1);
+    });
+
+}
+
+

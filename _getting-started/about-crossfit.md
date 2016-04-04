@@ -14,7 +14,9 @@ At CrossFit Madtown, we focus on helping you reach your full athletic potential.
 
 ![Girl on Rings]({{page.img1}})
 
-CrossFit advocates a mix of aerobic exercise, gymnastics (body weight exercises), and Olympic weight lifting. CrossFit describes its strength and conditioning program as,&nbsp;[Read More](https://en.wikipedia.org/wiki/CrossFit)
+\"CrossFit advocates a mix of aerobic exercise, gymnastics (body weight exercises), and Olympic weight lifting. CrossFit describes its strength and conditioning program as, constantly varied, high-intensity, functional movement, with a stated goal of improving fitness, which it defines as \'work capacity across broad time and modal domains\'. Hour-long classes at affiliated gyms, or \'boxes\', typically include a warm-up, a skill development segment, the high-intensity \'workout of the day\' (or WOD), and a period of individual or group stretching. Performance on each WOD is often scored and/or ranked to encourage competition and to track individual progress.\"  
+
+[Read More](https://en.wikipedia.org/wiki/CrossFit)
 
 ### Do I Need Any Experience?
 
