@@ -23,9 +23,11 @@ Monday/Wednesday/Friday: 9am
 Monday/Wednesday: 4pm
 Tuesday/Thursday: 5pm
 
-**Advanced PAACT**
+**Advanced Youth Development (Ages 10-12)**
 
 Tuesday/Thursday: 11am
+
+*Also have access to Speed Development and PAACT
 
 **Advanced Youth Development**
 
