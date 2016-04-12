@@ -7,7 +7,7 @@ permalink: /summer-camp-2016/
 
 ### Sessions
 
-**Session 1 **
+**Session 1**
 June 13 - July 15th (5 wks)
 
 **Session 2**
