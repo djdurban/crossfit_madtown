@@ -25,6 +25,13 @@ Monday/Wednesday/Friday: 11am
 
 Tuesday/Thursday: 11am
 
+**Advanced Youth Development**
+
+Monday/Wednesday/Friday: 9am
+
+Monday/Wednesday: 6:30pm
+
+Tuesday/Thursday: 4:30pm
 
 
 ****
