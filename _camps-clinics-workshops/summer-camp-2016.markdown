@@ -21,6 +21,7 @@ June 13 - July 15th (5 wks)
 
 Monday/Wednesday/Friday: 9am
 Monday/Wednesday: 4pm
+Tuesday/Thursday: 5pm
 
 **Advanced PAACT**
 
