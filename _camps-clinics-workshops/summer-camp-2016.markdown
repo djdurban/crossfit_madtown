@@ -66,6 +66,16 @@ Monday/Wednesday/Friday: 11am
 
 *Must be cleared by Skipp or Keysha
 
+**PAACT**
+
+Tuesday/Thursday: 6pm
+
+**Advanced PAACT**
+
+Tuesday/Thursday: 11am**
+
+*Must be cleared by Skipp or Keysha
+
 ****
 
 ### Packages
