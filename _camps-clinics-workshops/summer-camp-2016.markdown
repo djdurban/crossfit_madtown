@@ -99,11 +99,11 @@ Monday-Thursday: 7am-830am
 
 ****
 
-### Packages
+### Packages and Cost
 
 
 
-### **Bronze Package**
+## **Bronze Package**
 
 2 Sessions per Week
 
