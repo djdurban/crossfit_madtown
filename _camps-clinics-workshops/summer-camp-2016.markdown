@@ -17,9 +17,10 @@ June 13 - July 15th (5 wks)
 
 ### Classes
 
-**Advanced Speed Development**
+**Youth Development**
 
-Monday/Wednesday/Friday: 11am
+Monday/Wednesday/Friday: 9am
+Monday/Wednesday: 4pm
 
 **Advanced PAACT**
 
