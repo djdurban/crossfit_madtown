@@ -21,9 +21,11 @@ This training program was created for our advanced/elite youth athletes. We cove
 
 We have all of our athletes start here regardless of their lifting background/experience. We often find that our style of training is a whole new beast for most athletes. We take our training programs that are normally offered to collegiate/ professional athletes, and offer them to our local youth athletes in a fun, safe, professional and supervised environment. We develop athletes by improving their: speed, power, strength, stamina, coordination, flexibility, core, quickness, agility, mental toughness and nutrition. We then enhance the athlete into a champion through work ethic, encouraging a champion's attitude as well as teaching athletes what it means to compete. Athletes will learn properly lifting technique, mechanics, breathing and body posture.
 
-
 **Advanced Strength and Power Training****
 
+This is the training program/group we want all of our athletes striving to reach. This training group is compiled of our top-tier, local, elite athletes that are college bound, preferably on scholarship. We train these athletes just like we train our collegiate & professional athletes. They WILL be one step ahead of their teammates/competition when they reach their destination. Many of our former athletes who are now college-athletes train in this training group as well!
+
+\*THIS CLASS ENTRY BY PERMISSION ONLY OR IF YOU THINK YOU GOT WHAT IT TAKES, YOU CAN TEST IN\*
 
 
 ### Conditioning Training Camps
