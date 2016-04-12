@@ -14,8 +14,9 @@ June 13 - July 15th (5 wks)
 **Session 2**
 
  July 18 - August 19th (5 wks)
+ 
 
-### Youth Classes
+### Youth Camps
 
 **Youth Development (Ages 8-12)**
 
@@ -35,7 +36,8 @@ Tuesday/Thursday: 4pm
 
 *Also have access to Speed Development and PAACT
 
-### High School Classes
+
+### High School Camps
  
 **Intro to Strength and Power Training**
 
@@ -49,7 +51,8 @@ Tuesday/Thursday: 4pm
 
 Monday/Wednesday/Friday: 10am
 
-### Conditioning Training Classes
+
+### Conditioning Training Camps
 
 **Speed Development**
 
@@ -68,6 +71,27 @@ Tuesday/Thursday: 6pm
 **Advanced PAACT****
 
 Tuesday/Thursday: 11am
+
+
+### Sport Specific Strength and Conditioning Camps
+
+**Volleybal**
+
+Tuesday/Thursday 13U: 9am
+
+Tuesday/Thursday 18U: 10am
+
+**Football**
+
+Monday/Wednesday: 5pm-7pm
+
+Tuesday/Thursday: 6am-8am
+
+**Cross Country**
+
+Monday/Wednesday: 5pm-7pm
+
+Tuesday/Thursday: 6am-8am
 
 <br />
 <br />
