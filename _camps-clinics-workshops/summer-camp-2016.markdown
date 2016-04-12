@@ -124,6 +124,8 @@ Session 2: $275
 
 Both Sessions: $470
 
+<br />
+
 #### **Silver Package**
 
 3 Training Sessions per Week
@@ -144,6 +146,8 @@ Session 2: $325
 
 Both Sessions: $550
 
+<br />
+
 #### **Gold Package**
 
 Unlimited Sessions per Week
@@ -159,5 +163,7 @@ Both Sessions: $500
 **Regular Summer Camp Sign Ups: After April 30th**
 
 Session 1: $375
+
 Session 2: $375
+
 Both Sessions: $625
