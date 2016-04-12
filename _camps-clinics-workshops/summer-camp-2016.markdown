@@ -89,9 +89,7 @@ Tuesday/Thursday: 6am-8am
 
 **Cross Country**
 
-Monday/Wednesday: 5pm-7pm
-
-Tuesday/Thursday: 6am-8am
+Monday-Thursday: 7am-830am
 
 <br />
 <br />
