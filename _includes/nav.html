@@ -127,7 +127,11 @@
 <a href="#" class="toggle-nav btn" id="menu-btn"><span class="fa fa-bars"></span>
 </a>
 
-<section id="header-sub">
+
+
+
+{% if page.layout == 'internal' or page.layout == 'post' %}
+	<section id="header-sub">
 <div class="mask">
 	<div id="home-logo">
 		<img src="/images/logo-head.svg" alt="CrossFit Madtown Logo">
@@ -136,11 +140,4 @@
 	<h2 class="editable">We're a <span>weightlifting</span> gym with a <span>CrossFit</span> problem.</h2>
 </div>
 </section>
-
-
-{% if page.layout == 'internal' or page.layout == 'post' %}
-	<div class="internal-logo">
-			
-
-	</div>
 {% endif %}
