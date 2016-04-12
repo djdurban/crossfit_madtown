@@ -2,7 +2,7 @@
 layout: post
 title: 2016 Summer Camp - Dates and Cost
 headerImage:
-permalink: /dates-and-cost/
+permalink: /dates-and-cost-2016/
 ---
 
 ### Session 1: June 13 - July 15th (5 wks)
