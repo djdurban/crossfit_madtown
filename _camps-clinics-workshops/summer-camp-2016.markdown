@@ -5,18 +5,6 @@ headerImage: /images/header/slider2.jpg
 permalink: /summer-camp-2016/
 ---
 
-### Summer Camp Sessions
-
-**Session 1** 
-
-June 13 - July 15th (5 wks)
-
-**Session 2**
-
- July 18 - August 19th (5 wks)
- 
- ****
-
 ### Youth Camps
 
 **Youth Development (Ages 8-12)**
@@ -100,9 +88,19 @@ Monday-Thursday: 7am-830am
 
 ****
 
+### Summer Camp Sessions
+
+**Session 1** 
+
+June 13 - July 15th (5 wks)
+
+**Session 2**
+
+ July 18 - August 19th (5 wks)
+ 
+ ****
+
 ### Packages and Cost
-
-
 
 #### **Bronze Package**
 
