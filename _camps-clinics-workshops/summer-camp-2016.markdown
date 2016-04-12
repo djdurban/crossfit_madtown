@@ -75,7 +75,7 @@ Tuesday/Thursday: 11am
 
 ### Sport Specific Strength and Conditioning Camps
 
-**Volleybal**
+**Volleyball**
 
 Tuesday/Thursday 13U: 9am
 
