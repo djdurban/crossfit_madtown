@@ -9,41 +9,16 @@ permalink: /summer-camp-2016/
 
 **Advanced Speed Development**
 
-****
-
-**Dates:**
-
-Session 1: June 15 - July 17th (5 wks)
-
-Session 2 July 20 - August 21th (5 wks)
-
-**Days/Times:**
-
 Monday/Wednesday/Friday: 11am
 
-**Additional Details:**
-
-Gender: Male/Female
+****
 
 
 **Advanced PAACT**
 
-****
-
-**Dates:**
-
-Session 1: June 15 - July 17th (5 wks)
-
-Session 2 July 20 - August 21th (5 wks)
-
-**Days/Times:**
-
 Tuesday/Thursday: 11am
 
-**Additional Details:**
-
-Gender: Male/Female
-
+****
 
 
 ### Session 1: June 13 - July 15th (5 wks)
