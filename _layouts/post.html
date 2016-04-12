@@ -4,7 +4,7 @@ layout: default
 <div class="internal-header" {% if page.headerImage %}style="background: url({{ page.headerImage }}) no-repeat; min-height: 15em; background-position: 0 0; background-size: cover;" {% else %}style="background: url(/images/default.svg) no-repeat; background-size: cover;"
 {% endif %}>
 </div>
-<section id="header">
+<!--<section id="header">
 	<div class="mask internal-mask">
 		<h1>
 		{% if page.group %}
@@ -14,10 +14,20 @@ layout: default
 		{% endif %}
 		</h1>
 	</div>
-</section>
+</section>-->
+
 
 <section id="post">
   <div class="container">
+      <div class="row">
+	        <h1>
+		{% if page.group %}
+			{{page.group}}
+		{% else %}
+			{{page.title}}
+		{% endif %}
+		</h1>
+	    </div>
     <div class="col-md-8 col-md-offset-2">
       {{ content }}
     </div>
