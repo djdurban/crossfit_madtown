@@ -19,14 +19,18 @@ June 13 - July 15th (5 wks)
 
 **Youth Development (Ages 8-12)**
 
-Monday/Wednesday/Friday: 9am
+Monday/Wednesday/Friday: 9am 
+
 Monday/Wednesday: 4pm
+
 Tuesday/Thursday: 5pm
 
 **Advanced Youth Development (Ages 10-12)**
 
 Monday/Wednesday/Friday: 9am
+
 Monday/Wednesday: 6pm
+
 Tuesday/Thursday: 4pm
 
 *Also have access to Speed Development and PAACT
@@ -37,10 +41,12 @@ Tuesday/Thursday: 4pm
 **Intro to Strength and Power Training**
 
 Monday/Wednesday/Friday: 9am
+
 Monday/Wednesday: 6pm
+
 Tuesday/Thursday: 4pm
 
-**Advanced Strength and Power Training* **
+**Advanced Strength and Power Training**
 
 Monday/Wednesday/Friday: 10am
 
@@ -51,6 +57,7 @@ Monday/Wednesday/Friday: 10am
 **Speed Development**
 
 Monday/Wednesday/Friday: 10am
+
 Monday/Wednesday: 5pm
 
 **Advanced Speed Development**
