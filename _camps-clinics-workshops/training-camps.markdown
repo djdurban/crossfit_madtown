@@ -13,7 +13,7 @@ This program is designed to help the young budding athlete to learn the athletic
 
 **Advanced Youth Development (Ages 10-12)****
 
-
+This training program was created for our advanced/elite youth athletes. We cover the same skills, follow the same philosophy as the youth development, but done at a faster pace and with more complex skills. Perfect for "tweens". Entry into this class by permission only.
 
 ### High School Camps
  
