@@ -205,6 +205,14 @@ p, li{
 
 //Internal Pages
 
+.internal-header,
+.internal-logo {
+     position: fixed;
+     top:0;
+     left:0;
+     right:0;
+}
+
 .internal-header {
     min-height: 4em;
     background-size: cover;
@@ -212,7 +220,7 @@ p, li{
 }
 
 .internal-logo {
-    position: absolute;
+   
     z-index: 2;
     top: .75em;
 
