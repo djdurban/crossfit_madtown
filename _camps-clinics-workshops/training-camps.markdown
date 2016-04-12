@@ -15,6 +15,8 @@ This program is designed to help the young budding athlete to learn the athletic
 **Advanced Youth Development (Ages 10-12)****
 
 This training program was created for our advanced/elite youth athletes. We cover the same skills, follow the same philosophy as the youth development, but done at a faster pace and with more complex skills. Perfect for "tweens". Entry into this class by permission only.
+
+\*Must be cleared by Skipp or Keysha.\*
 <br /><br />
 
 ### High School Camps
@@ -29,6 +31,7 @@ We have all of our athletes start here regardless of their lifting background/ex
 This is the training program/group we want all of our athletes striving to reach. This training group is compiled of our top-tier, local, elite athletes that are college bound, preferably on scholarship. We train these athletes just like we train our collegiate & professional athletes. They WILL be one step ahead of their teammates/competition when they reach their destination. Many of our former athletes who are now college-athletes train in this training group as well!
 
 \*THIS CLASS ENTRY BY PERMISSION ONLY OR IF YOU THINK YOU GOT WHAT IT TAKES, YOU CAN TEST IN\*
+
 <br /><br />
 
 ### Conditioning Training Camps
@@ -53,6 +56,8 @@ Great conditioning class for all athletes. This fun class, is a mix of various t
 **Advanced PAACT****
 
 Great conditioning class for all athletes. This fun class, is a mix of various training that never gets boring. Athletes are coached through various styles of jump training, multi directional speed, agilities, various core exercises and much more. Athletes will get in great shape
+
+\*Must be cleared by Skipp or Keysha.\*
 <br /><br />
 
 ### Sport Specific Strength and Conditioning Camps
