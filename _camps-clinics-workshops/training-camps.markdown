@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Training Camps
+title: Summer Training Camps
 headerImage: /images/header/slider2.jpg
 permalink: /training-camps/
 ---
