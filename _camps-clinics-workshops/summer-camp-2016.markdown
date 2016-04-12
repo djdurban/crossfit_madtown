@@ -124,7 +124,7 @@ Session 2: $275
 
 Both Sessions: $470
 
-### Silver Package
+#### **Silver Package**
 
 3 Training Sessions per Week
 
@@ -144,7 +144,7 @@ Session 2: $325
 
 Both Sessions: $550
 
-### Gold Package
+#### **Gold Package**
 
 Unlimited Sessions per Week
 
