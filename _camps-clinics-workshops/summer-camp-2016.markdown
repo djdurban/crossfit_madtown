@@ -31,16 +31,33 @@ Tuesday/Thursday: 4pm
 
 *Also have access to Speed Development and PAACT
 *Must be cleared by Skipp or Keysha
- 
 
-**Advanced Youth Development**
+### High School Classes
+ 
+**Intro to Strength and Power Training**
 
 Monday/Wednesday/Friday: 9am
+Monday/Wednesday: 6pm
+Tuesday/Thursday: 4pm
 
-Monday/Wednesday: 6:30pm
+**Advanced Strength and Power Training* **
 
-Tuesday/Thursday: 4:30pm
+Monday/Wednesday/Friday: 10am
 
+*Must be cleared by Skipp or Keysha
+
+### Conditioning Training Classes
+
+**Speed Development**
+
+Monday/Wednesday/Friday: 10am
+Monday/Wednesday: 5pm
+
+**Advanced Speed Development**
+
+Monday/Wednesday/Friday: 11am
+
+*Must be cleared by Skipp or Keysha
 
 ****
 
