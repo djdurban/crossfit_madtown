@@ -70,7 +70,7 @@ Monday/Wednesday/Friday: 11am
 
 Tuesday/Thursday: 6pm
 
-**Advanced PAACT**
+**Advanced PAACT***
 
 Tuesday/Thursday: 11am
 
