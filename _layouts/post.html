@@ -18,11 +18,11 @@ layout: default
 
 <section id="post">
   <div class="container">
-      <div class="row">
+      <div class="col-md-8 col-md-offset-2">
 		{% if page.group %}
-			### {{page.group}}
+			{{page.group}}
 		{% else %}
-			### {{page.title}}
+			{{page.title}}
 		{% endif %}
 	    </div>
     <div class="col-md-8 col-md-offset-2">
