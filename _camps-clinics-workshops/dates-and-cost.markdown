@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Dates and Cost
+title: 2016 Summer Camp - Dates and Cost
 headerImage:
 permalink: /dates-and-cost/
 ---
