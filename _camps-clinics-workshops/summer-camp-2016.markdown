@@ -17,7 +17,7 @@ June 13 - July 15th (5 wks)
 
 ### Classes
 
-**Youth Development**
+**Youth Development (Ages 8-12)**
 
 Monday/Wednesday/Friday: 9am
 Monday/Wednesday: 4pm
