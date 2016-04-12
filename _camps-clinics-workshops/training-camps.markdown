@@ -19,6 +19,7 @@ This training program was created for our advanced/elite youth athletes. We cove
  
 **Intro to Strength and Power Training**
 
+We have all of our athletes start here regardless of their lifting background/experience. We often find that our style of training is a whole new beast for most athletes. We take our training programs that are normally offered to collegiate/ professional athletes, and offer them to our local youth athletes in a fun, safe, professional and supervised environment. We develop athletes by improving their: speed, power, strength, stamina, coordination, flexibility, core, quickness, agility, mental toughness and nutrition. We then enhance the athlete into a champion through work ethic, encouraging a champion's attitude as well as teaching athletes what it means to compete. Athletes will learn properly lifting technique, mechanics, breathing and body posture.
 
 
 **Advanced Strength and Power Training****
