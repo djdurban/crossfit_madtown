@@ -67,7 +67,7 @@ Tuesday/Thursday: 6pm
 
 **Advanced PAACT****
 
-Tuesday/Thursday: 11am
+Tuesday/Thursday: 11am  
 
 
 
