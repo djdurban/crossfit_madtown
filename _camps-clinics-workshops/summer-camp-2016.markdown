@@ -5,7 +5,7 @@ headerImage: /images/header/slider2.jpg
 permalink: /summer-camp-2016/
 ---
 
-### Sessions
+### Summer Camp Sessions
 
 **Session 1** 
 
