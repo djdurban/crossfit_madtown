@@ -25,13 +25,12 @@ Tuesday/Thursday: 5pm
 
 **Advanced Youth Development (Ages 10-12)**
 
-*Must be cleared by Skipp or Keysha
-
 Monday/Wednesday/Friday: 9am
 Monday/Wednesday: 6pm
 Tuesday/Thursday: 4pm
 
 *Also have access to Speed Development and PAACT
+*Must be cleared by Skipp or Keysha
  
 
 **Advanced Youth Development**
