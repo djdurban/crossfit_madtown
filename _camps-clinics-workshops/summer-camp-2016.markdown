@@ -11,12 +11,11 @@ permalink: /summer-camp-2016/
 
 Monday/Wednesday/Friday: 11am
 
-****
-
-
 **Advanced PAACT**
 
 Tuesday/Thursday: 11am
+
+
 
 ****
 
