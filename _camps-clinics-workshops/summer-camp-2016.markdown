@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Summer Camp 2016
-headerImage:images/header/slider2.jpg
+headerImage:/images/header/slider2.jpg
 permalink: /summer-camp-2016/
 ---
 
