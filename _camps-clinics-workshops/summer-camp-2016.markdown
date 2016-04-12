@@ -15,7 +15,7 @@ June 13 - July 15th (5 wks)
 
  July 18 - August 19th (5 wks)
 
-### Classes
+### Youth Classes
 
 **Youth Development (Ages 8-12)**
 
@@ -25,9 +25,14 @@ Tuesday/Thursday: 5pm
 
 **Advanced Youth Development (Ages 10-12)**
 
-Tuesday/Thursday: 11am
+*Must be cleared by Skipp or Keysha
+
+Monday/Wednesday/Friday: 9am
+Monday/Wednesday: 6pm
+Tuesday/Thursday: 4pm
 
 *Also have access to Speed Development and PAACT
+ 
 
 **Advanced Youth Development**
 
