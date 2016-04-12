@@ -4,14 +4,18 @@ layout: default
 <div class="internal-header" {% if page.headerImage %}style="background: url({{ page.headerImage }}) no-repeat; min-height: 15em; background-position: 0 0; background-size: cover;"
 {% endif %}>
 </div>
+
+
 <section id="header">
-<div class="mask">
-	<div id="home-logo">
-		<img src="/images/logo-head.svg" alt="CrossFit Madtown Logo">
+	<div class="mask internal-mask">
+		<h1>
+		{% if page.group %}
+			{{page.group}}
+		{% else %}
+			{{page.title}}
+		{% endif %}
+		</h1>
 	</div>
-	<h1 id="siteTitle" class="editable"><span>CROSSFIT</span><span>MA<span>DTO</span>WN</span></h1>
-	<h2 class="editable">We're a <span>weightlifting</span> gym with a <span>CrossFit</span> problem.</h2>
-</div>
 </section>
 
 
