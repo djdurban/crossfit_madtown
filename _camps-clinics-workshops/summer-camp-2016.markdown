@@ -15,6 +15,7 @@ June 13 - July 15th (5 wks)
 
  July 18 - August 19th (5 wks)
  
+ ****
 
 ### Youth Camps
 
@@ -103,7 +104,7 @@ Monday-Thursday: 7am-830am
 
 
 
-## **Bronze Package**
+#### **Bronze Package**
 
 2 Sessions per Week
 
