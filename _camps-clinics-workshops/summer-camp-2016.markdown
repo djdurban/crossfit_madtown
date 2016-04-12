@@ -25,7 +25,7 @@ Monday/Wednesday: 4pm
 
 Tuesday/Thursday: 5pm
 
-**Advanced Youth Development (Ages 10-12)***
+**Advanced Youth Development (Ages 10-12)****
 
 Monday/Wednesday/Friday: 9am
 
@@ -45,7 +45,7 @@ Monday/Wednesday: 6pm
 
 Tuesday/Thursday: 4pm
 
-**Advanced Strength and Power Training***
+**Advanced Strength and Power Training****
 
 Monday/Wednesday/Friday: 10am
 
@@ -57,7 +57,7 @@ Monday/Wednesday/Friday: 10am
 
 Monday/Wednesday: 5pm
 
-**Advanced Speed Development***
+**Advanced Speed Development****
 
 Monday/Wednesday/Friday: 11am
 
@@ -65,12 +65,12 @@ Monday/Wednesday/Friday: 11am
 
 Tuesday/Thursday: 6pm
 
-**Advanced PAACT***
+**Advanced PAACT****
 
 Tuesday/Thursday: 11am
 
 
-*Must be cleared by Skipp or Keysha
+****Must be cleared by Skipp or Keysha**
 
 ****
 
