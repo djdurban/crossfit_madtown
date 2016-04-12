@@ -2,7 +2,7 @@
 layout: post
 title: Summer Training Camps
 headerImage: /images/header/slider2.jpg
-permalink: /training-camps/
+permalink: /summer-training-camps/
 ---
 
 ### Youth Camps
