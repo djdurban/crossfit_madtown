@@ -95,7 +95,7 @@ Monday-Thursday: 7am-830am
 <br />
   
   
-****Must be cleared by Skipp or Keysha**
+****Advanced class entry must be cleared by Skipp or Keysha**
 
 ****
 
