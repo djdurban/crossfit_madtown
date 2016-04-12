@@ -5,9 +5,9 @@ headerImage:
 permalink: /dates-and-cost/
 ---
 
-### Session 1: June 15 - July 17th (5 wks)
+### Session 1: June 13 - July 15th (5 wks)
 
-### Session 2: July 20 - August 21th (5 wks)
+### Session 2: July 18 - August 19th (5 wks)
 
 ### **Bronze Package**
 
