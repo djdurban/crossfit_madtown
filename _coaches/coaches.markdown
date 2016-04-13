@@ -1,6 +1,6 @@
 ---
 layout: post
-title: CrossFit
+title: CrossFit Madtown Coaches
 headerImage: /images/about_image.jpg
 permalink: /crossfit/
 ---
