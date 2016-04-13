@@ -5,31 +5,34 @@ headerImage:
 permalink: /hot-mammas/
 ---
 
-If you\'re looking to develop speed, acceleration, coordination, strength, and power, or if you simply want to up your fitness game, then Olympic Lifting with CrossFit MadTown is for you. Athletes will learn proper lifting technique, mechanics, breathing and body posture. Use this class as a method of non-competitive training and conditioning, or develop your technique so that you can compete on the MadTown Weight Lifting Club team-a team that won the 2011, 2014 and 2015 Wisconsin State Championships and has helped numerous athletes in qualifying for the USA National Championships.
+###Hot Mammas
+
+This class is not just for moms, but for any woman looking to have a fun & get fit with awesome women! Open to all ages and ability levels. Training is done with the use of traditional and non-traditional training tools. Entire workout provided: Warm up, flexibility training, strength & power, conditioning, core training and cool down. Just show up ready to work hard and get in shape! This is a very fun, interactive class that will help to improve your overall power, strength, reduce body fat, lose weight, coordination, balance, stamina and much more. 
 
 ****
 
-Be on the team!
-To join the MadTown Weight Lifting Club team, you must first sign up for a USA Weightlifting membership . When registering, enter MadTown WLC as your club.
+**Hot Mammas Training Cost**
 
-**Weightlifting Training Cost**
+10-pack of Classes: $200
 
-10-pack of Classes: $150
+2 Classes/Week: $90/month
 
-3 Classes/Week: $90/month
+Unlimited adult classes (including Crossfit and Olympic Lifting): $150/month
 
-Unlimited adult classes (including CrossFit and Olympic Lifting): $150/month
+Couples Unlimited Rate: $200 ($100 each)
 
-**Gender:**
-
-Male/Female
-
-**Ages:**
-
-17+
+Drop-In Cost: $25
 
 **Days/Times:**
 
-Mondays & Wednesdays: 7pm - 8pm
+Tuesday: 9am-10am - Strength & Power Training
 
-Saturday: 10am - 12pm
+Wednesdays: 9am-10am - Speed, Agility, Quickness & Conditioning Training
+
+Fridays: 9am-10am - Gutts, Butts & Thighs
+
+**Additional Details:**
+
+Gender: Female
+
+Ages: 18+
