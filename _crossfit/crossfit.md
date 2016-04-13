@@ -30,7 +30,7 @@ No previous experience is necessary! Many of our regulars started at CrossFit Ma
 We recommend starting with our Introduction to Crossfit class. Most members spend 8-10 weeks in our Introduction to CrossFit class before they begin in the regular sessions. However, it is not required, and depending on your athletic abilities, you may able to start regular classes sooner. The first class is free, so contact us today to sign up!
 
 
-##CrossFit
+##Classes and Costs
 
 This class delivers a fitness style that is, by design, broad, general, and inclusive for any level of athlete. It is a strength and conditioning program built on constantly varied, if not randomized, functional movements executed at high intensity. This program combines elements of gymnastics, Olympic Weightlifting and resistance training with traditional and non-traditional tools, combined to create a great workout for any person looking to get fit. CrossFit training challenges the body in a variety of ways and is completely scalable and easily modified to suit any exerciser. This program is guaranteed to improve cardiovascular endurance, stamina, strength, flexibility, power, speed, coordination, accuracy, agility and balance.
 
