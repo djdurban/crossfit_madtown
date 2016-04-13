@@ -31,6 +31,14 @@ collections:
                 type: "crossfit"
             values:
                 layout: "post"
+    coaches:
+        output: true
+        defaults:
+            scope:
+                path: ""
+                type: "coaches"
+            values:
+                layout: "post"
     olympic-lifting:
         output: true
         defaults:
