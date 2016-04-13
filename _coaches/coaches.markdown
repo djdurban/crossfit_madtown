@@ -2,7 +2,7 @@
 layout: post
 title: CrossFit Madtown Coaches
 headerImage: /images/about_image.jpg
-permalink: /crossfit/
+permalink: /coaches/
 ---
 
 ##SKIPP BENZING
