@@ -1,7 +1,10 @@
 ---
 layout: post
 title: CrossFit
-headerImage:
+img1: "/images/abby_rings.jpg"
+img2: "/images/handstand.jpg"
+img3: "/images/running.jpg"
+headerImage: /images/about_image.jpg
 permalink: /crossfit/
 ---
 At CrossFit Madtown, we focus on helping you reach your full athletic potential. Whether you have never lifted a weight before, or you have been swinging kettlebells for years, we help you improve your form and increase your efficiency.
