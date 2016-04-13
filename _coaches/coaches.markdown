@@ -1,3 +1,9 @@
+---
+layout: post
+title: CrossFit
+headerImage: /images/about_image.jpg
+permalink: /crossfit/
+---
 
 ##SKIPP BENZING
 **DIRECTOR**
