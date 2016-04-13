@@ -1,3 +1,4 @@
+encoding: utf-8
 collections:
     athletic-performance-training:
         output: true
