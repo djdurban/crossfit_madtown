@@ -18,7 +18,7 @@ Skipp's credentials include a bachelor's degree in Exercise and Sport Science at
 ##KEYSHA BENZING
 **DIRECTOR**
 
-While majoring in kinesiology and earning her bachelor’s & master's degree at CSUF (04’ & 06), Benzing competed for the Titans for four years in cross country and track & field. Her accomplishments there include: Three-time Athlete of the Year, Two-Time All-Conference, NCAA Regional Qualifier, Big West Scholar Athlete as well as the school record holder in the 800M and 4X400M Relay Team. While a student-athlete at CSUF, Benzing served as a strength & conditioning intern, assisting with the notorious Titan baseball program. 
+While majoring in kinesiology and earning her bachelor's & master's degree at CSUF (04 & 06), Benzing competed for the Titans for four years in cross country and track & field. Her accomplishments there include: Three-time Athlete of the Year, Two-Time All-Conference, NCAA Regional Qualifier, Big West Scholar Athlete as well as the school record holder in the 800M and 4X400M Relay Team. While a student-athlete at CSUF, Benzing served as a strength & conditioning intern, assisting with the notorious Titan baseball program. 
 Prior to starting the MadTown Athletic Department, Benzing was an assistant strength & conditioning coach at several division one universities.
 The University of Iowa working with the nationally ranked cross country team, indoor and outdoor track, golf, nationally ranked softball team, nationally ranked field hockey team and assisting with Hawkeye baseball program.
 
