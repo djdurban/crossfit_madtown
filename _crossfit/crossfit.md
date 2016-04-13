@@ -32,7 +32,7 @@ We recommend starting with our Introduction to Crossfit class. Most members spen
 <br />
 <br />
 
-##Classes and Costs
+<h1>Classes and Costs</h1>
 
 ###CrossFit
 
