@@ -21,7 +21,7 @@
             max-width:768px;
             
             .page-top-link {
-                
+                position:relative;
                 display:inline-block;
                 color:#fff;
                 font-size:14px;
@@ -31,6 +31,14 @@
                 .fa {
                     vertical-align:middle;
                     line-height:inherit;
+                }
+                
+                &:hover {
+                    .page-top-link-menu {
+                        position:absolute;
+                        top:40px;
+                        display:block;
+                    }                    
                 }
             }
         }
