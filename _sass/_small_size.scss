@@ -23,10 +23,14 @@
             .page-top-link {
                 position:relative;
                 display:inline-block;
-                color:#fff;
+                
                 font-size:14px;
                 line-height:inherit;
                 vertical-align:middle;
+                
+                a {
+                    color:#fff;
+                }
                 
                 li {
                     text-decoration:none;
