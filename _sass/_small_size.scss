@@ -44,6 +44,17 @@
                 .page-top-link-menu {
                     display:none;    
                     background:rgba(100,27,17,.8);
+                    padding-left: 10px;
+                    line-height: 20px;
+                    
+                    li {
+                        margin-top:10px;
+                        
+                        &:last {
+                            margin-bottom:10px;
+                        }
+                    }
+                    
                 }
                 
                 &:hover {
