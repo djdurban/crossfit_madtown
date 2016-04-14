@@ -43,7 +43,11 @@
                 }
                 
                 .page-top-link-menu {
-                    display:none;    
+                    display:none;   
+                    position:absolute;
+                    top:40px;
+                    left:0;
+                    right:0;
                     opacity:0;
                     transition:opacity 500ms;
                     background:rgba(100,27,17,.8);
@@ -60,10 +64,7 @@
                 
                 &:hover {
                     .page-top-link-menu {
-                        position:absolute;
-                        top:40px;
-                        left:0;
-                        right:0;
+                        
                         display:block;
                         opacity:1;
                     }                    
