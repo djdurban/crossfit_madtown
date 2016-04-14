@@ -71,7 +71,8 @@
                     
                 }
                 
-                &:hover {
+                &:hover,
+                &:active {
                     .page-top-link-menu {
                         pointer-events:auto;
                         opacity:1;
