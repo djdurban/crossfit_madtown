@@ -1,57 +1,27 @@
 @media screen and (min-width: 992px) {
         #site-top-menu {
-        display:block;
-        position: fixed;
-        top:0;
-        left:0;
-        right:0;
-        width:100%;
-        height:40px;
-        line-height:40px;
-        z-index:100;
-        background:rgba(100,27,17,1);
+
         
         .menu-top-links {
-            position:relative;
-            margin-left:auto;
-            margin-right:auto;
-            display:flex;
-            justify-content: space-around;
+
             max-width:992px;
             
             .page-top-link {
-                position:relative;
-                display:inline-block;
-                
-                font-size:14px;
-                line-height:inherit;
-                vertical-align:middle;
                 
                 a {
-                    color:#fff;
                 }
                 
                 li {
-                    list-style:none;
                 }
                 
                 .fa {
-                    vertical-align:middle;
-                    line-height:inherit;
                 }
                 
                 .page-top-link-menu {
-                    display:none;    
-                    background:rgba(100,27,17,.8);
                 }
                 
                 &:hover {
                     .page-top-link-menu {
-                        position:absolute;
-                        top:40px;
-                        left:0;
-                        right:0;
-                        display:block;
                     }                    
                 }
             }
