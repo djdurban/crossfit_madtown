@@ -11,9 +11,11 @@
         z-index:100;
         background:rgba(100,27,17,.8);
         
-        .menu-links {
+        #menu-links {
             .page-links {
                 display:inline-block;
+                color:#fff;
+                font-size:14px;
             }
         }
     }
