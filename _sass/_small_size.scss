@@ -43,13 +43,14 @@
                 }
                 
                 .page-top-link-menu {
+                    display:block;
                     pointer-events:none;  
                     position:absolute;
                     top:40px;
                     left:0;
                     right:0;
                     opacity:0;
-                    transition:opacity 500ms;
+                    transition: opacity 500ms;
                     background:rgba(100,27,17,.8);
                     padding-left: 10px;
                     line-height: 20px;
