@@ -33,6 +33,10 @@
                     line-height:inherit;
                 }
                 
+                .page-top-link-menu {
+                    display:none;                    
+                }
+                
                 &:hover {
                     .page-top-link-menu {
                         position:absolute;
