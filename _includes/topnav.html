@@ -1,20 +1,22 @@
 <section id="site-top-menu" class="hidden-xs">
 	<ul class="menu-top-links">
-		<li><a class="page-top-link" href="/index.html">Home</a></li>
+		<li class="page-top-link"><a  href="/index.html">Home</a></li>
 		{% for nav_item in site.data.crossfit %}
 
 			{% if nav_item.type == 'main' or nav_item.type == 'Main' or nav_item.type == 'MAIN' %}
 				{% if nav_item.permalink %}
-					<li><a class="page-top-link" href="{{ nav_item.permalink }}">{{ nav_item.title }}</a></li>
+					<li class="page-top-link"><a href="{{ nav_item.permalink }}">{{ nav_item.title }}</a></li>
 				{% else %}
-					<a class="page-top-link" role="button" data-toggle="collapse" href="#{{ nav_item.id }}" aria-expanded="false">{{ nav_item.title }}<span class="fa fa-angle-down pull-right"></span></a>
-					<div class="collapse collapse-style" id="{{ nav_item.id }}">
-						{% for dropdown in site.data.crossfit %}
-							{% if dropdown.group == nav_item.group and dropdown.type == 'subNav' %}
-								<a href="{{ dropdown.permalink }}">{{ dropdown.title }}</a>
-							{% endif %}
-						{% endfor %}
-					</div>
+				    <li class="page-top-link">
+					    <a href="#{{ nav_item.id }}">{{ nav_item.title }}<span class="fa fa-angle-down pull-right"></span></a>
+					    <div class="collapse collapse-style" id="{{ nav_item.id }}">
+    						{% for dropdown in site.data.crossfit %}
+    							{% if dropdown.group == nav_item.group and dropdown.type == 'subNav' %}
+    								<a href="{{ dropdown.permalink }}">{{ dropdown.title }}</a>
+    							{% endif %}
+    						{% endfor %}
+					    </div>
+					</li>
 				{% endif %}
 			{% endif %}
 		{% endfor %}
