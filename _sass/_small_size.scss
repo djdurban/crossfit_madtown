@@ -53,13 +53,14 @@
                     transition: opacity 500ms;
                     background:rgba(100,27,17,.8);
                     padding-left: 10px;
-                    line-height: 30px;
-                    height:30px;
+                    
                     padding-top:10px;
                     
                     li {
                         margin-bottom:10px;
                         font-size:14px;
+                        line-height: 30px;
+                        height:30px;
                         
                         a {
                             display:block;      
