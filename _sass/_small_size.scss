@@ -43,7 +43,7 @@
                 }
                 
                 .page-top-link-menu {
-                    display:none;   
+                    pointer-events:none;  
                     position:absolute;
                     top:40px;
                     left:0;
@@ -64,8 +64,7 @@
                 
                 &:hover {
                     .page-top-link-menu {
-                        
-                        display:block;
+                        pointer-events:default;
                         opacity:1;
                     }                    
                 }
