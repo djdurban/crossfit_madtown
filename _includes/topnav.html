@@ -25,23 +25,25 @@
 		{% for nav_item in site.data.camps-clinics-workshops %}
 
 			{% if nav_item.type == 'main' or nav_item.type == 'Main' or nav_item.type == 'MAIN' %}
-				{% if nav_item.permalink %}
-					<a class="page-top-link" href="{{ nav_item.permalink }}">{{ nav_item.title }}</a>
+			    {% if nav_item.permalink %}
+					<li class="page-top-link"><a href="{{ nav_item.permalink }}">{{ nav_item.title }}</a></li>
 				{% else %}
-					<a class="page-top-link" role="button" data-toggle="collapse" href="#{{ nav_item.id }}" aria-expanded="false">{{ nav_item.title }}<span class="fa fa-angle-down pull-right"></span></a>
-					<div class="collapse collapse-style" id="{{ nav_item.id }}">
-						{% for dropdown in site.data.camps-clinics-workshops %}
-							{% if dropdown.group == nav_item.group and dropdown.type == 'subNav' %}
-								<a href="{{ dropdown.permalink }}">{{ dropdown.title }}</a>
-							{% endif %}
-						{% endfor %}
-					</div>
+				    <li class="page-top-link">
+					    <a href="#{{ nav_item.id }}">{{ nav_item.title }}<span class="fa fa-angle-down pull-right"></span></a>
+					    <ul class="page-top-link-menu" id="{{ nav_item.id }}">
+    						{% for dropdown in site.data.camps-clinics-workshops  %}
+    							{% if dropdown.group == nav_item.group and dropdown.type == 'subNav' %}
+    								<li><a href="{{ dropdown.permalink }}">{{ dropdown.title }}</a></li>
+    							{% endif %}
+    						{% endfor %}
+					    </ul>
+					</li>
 				{% endif %}
 			{% endif %}
 		{% endfor %}
-		<a class="page-top-link" href="/olympic-lifting">Olympic Lifting</a>
-		<a class="page-top-link" href="/hot-mammas">Hot Mammas</a>
-		<a class="page-top-link" href="/coaches">Coaches</a>
+		<li class="page-top-link"><a class="page-top-link" href="/olympic-lifting">Olympic Lifting</a></li>
+		<li class="page-top-link"><a class="page-top-link" href="/hot-mammas">Hot Mammas</a></li>
+		<li class="page-top-link"><a class="page-top-link" href="/coaches">Coaches</a></li>
 	</ul>
 </section>
 </a>
