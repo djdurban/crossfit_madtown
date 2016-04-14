@@ -1,13 +1,14 @@
 <section id="site-top-menu" class="hidden-xs">
+        {% if page.layout == 'internal' or page.layout == 'post' %}
+        <li class="page-top-link page-top-link-logo">
+            <a href="/" title="CrossFit Madtown">
+              	<img src="/images/logo-head.svg" alt="CrossFit Madtown Logo"> 
+             	<p>Crossfit<span>Madtown</span></p>
+         	</a>
+        </li>
+        {% endif %}
 	<ul class="menu-top-links">
-	        {% if page.layout == 'internal' or page.layout == 'post' %}
-            <li class="page-top-link page-top-link-logo">
-                <a href="/" title="CrossFit Madtown">
-                  	<img src="/images/logo-head.svg" alt="CrossFit Madtown Logo"> 
-                 	<p>Crossfit<span>Madtown</span></p>
-             	</a>
-            </li>
-            {% endif %}
+	        
 		<li class="page-top-link"><a  href="/index.html">Home</a></li>
 		<li class="page-top-link"><a  href="/crossfit">CrossFit</a></li>
 		
