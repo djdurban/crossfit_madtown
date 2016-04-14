@@ -7,7 +7,7 @@
          	</a>
         </div>
         {% endif %}
-	<ul class="menu-top-links">
+	<ul class="menu-top-links {% if page.layout == 'internal' or page.layout == 'post' %}internal-top-links{% endif %}">
 	        
 		<li class="page-top-link"><a  href="/index.html">Home</a></li>
 		<li class="page-top-link"><a  href="/crossfit">CrossFit</a></li>
