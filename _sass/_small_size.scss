@@ -12,7 +12,10 @@
         background:rgba(100,27,17,.8);
         
         .menu-top-links {
+            display:flex;
+            justify-content: space-between;
             .page-top-link {
+                
                 display:inline-block;
                 color:#fff;
                 font-size:14px;
