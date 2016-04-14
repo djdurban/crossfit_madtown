@@ -10,7 +10,7 @@
 					<li class="page-top-link"><a href="{{ nav_item.permalink }}">{{ nav_item.title }}</a></li>
 				{% else %}
 				    <li class="page-top-link">
-					    <a href="#">{{ nav_item.title }}<span class="fa fa-angle-down pull-right"></span></a>
+					    <a href="#">{{ nav_item.title }}<span class="fa fa-angle-down"></span></a>
 					    <ul class="page-top-link-menu" id="{{ nav_item.id }}">
     						{% for dropdown in site.data.athletic-performance-training  %}
     							{% if dropdown.group == nav_item.group and dropdown.type == 'subNav' %}
@@ -29,7 +29,7 @@
 					<li class="page-top-link"><a href="{{ nav_item.permalink }}">{{ nav_item.title }}</a></li>
 				{% else %}
 				    <li class="page-top-link">
-					    <a href="#">{{ nav_item.title }}<span class="fa fa-angle-down pull-right"></span></a>
+					    <a href="#">{{ nav_item.title }}<span class="fa fa-angle-down"></span></a>
 					    <ul class="page-top-link-menu" id="{{ nav_item.id }}">
     						{% for dropdown in site.data.camps-clinics-workshops  %}
     							{% if dropdown.group == nav_item.group and dropdown.type == 'subNav' %}
