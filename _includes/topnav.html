@@ -1,4 +1,4 @@
-<section id="site-top-menu" class="hidden-xs">
+<section id="site-top-menu {% if page.layout == 'internal' or page.layout == 'post' %}internal-site-top-links{% endif %}" class="hidden-xs">
         {% if page.layout == 'internal' or page.layout == 'post' %}
         <div class="page-top-link-logo internal-logo">
             <a href="/" title="CrossFit Madtown">
@@ -7,7 +7,7 @@
          	</a>
         </div>
         {% endif %}
-	<ul class="menu-top-links {% if page.layout == 'internal' or page.layout == 'post' %}internal-top-links{% endif %}">
+	<ul class="menu-top-links">
 	        
 		<li class="page-top-link"><a  href="/index.html">Home</a></li>
 		<li class="page-top-link"><a  href="/crossfit">CrossFit</a></li>
