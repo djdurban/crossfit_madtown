@@ -1,25 +1,7 @@
 <section id="site-top-menu" class="hidden-xs">
 	<ul class="menu-top-links">
 		<li class="page-top-link"><a  href="/index.html">Home</a></li>
-		{% for nav_item in site.data.crossfit %}
-
-			{% if nav_item.type == 'main' or nav_item.type == 'Main' or nav_item.type == 'MAIN' %}
-				{% if nav_item.permalink %}
-					<li class="page-top-link"><a href="{{ nav_item.permalink }}">{{ nav_item.title }}</a></li>
-				{% else %}
-				    <li class="page-top-link">
-					    <a href="#{{ nav_item.id }}">{{ nav_item.title }}<span class="fa fa-angle-down pull-right"></span></a>
-					    <div class="collapse collapse-style" id="{{ nav_item.id }}">
-    						{% for dropdown in site.data.crossfit %}
-    							{% if dropdown.group == nav_item.group and dropdown.type == 'subNav' %}
-    								<a href="{{ dropdown.permalink }}">{{ dropdown.title }}</a>
-    							{% endif %}
-    						{% endfor %}
-					    </div>
-					</li>
-				{% endif %}
-			{% endif %}
-		{% endfor %}
+		<li class="page-top-link"><a  href="/crossfit">CrossFit</a></li>
 		
 		{% for nav_item in site.data.athletic-performance-training %}
 
@@ -29,13 +11,13 @@
 				{% else %}
 				    <li class="page-top-link">
 					    <a href="#{{ nav_item.id }}">{{ nav_item.title }}<span class="fa fa-angle-down pull-right"></span></a>
-					    <div class="collapse collapse-style" id="{{ nav_item.id }}">
+					    <ul class="page-top-link-menu" id="{{ nav_item.id }}">
     						{% for dropdown in site.data.athletic-performance-training  %}
     							{% if dropdown.group == nav_item.group and dropdown.type == 'subNav' %}
-    								<a href="{{ dropdown.permalink }}">{{ dropdown.title }}</a>
+    								<li><a href="{{ dropdown.permalink }}">{{ dropdown.title }}</a></li>
     							{% endif %}
     						{% endfor %}
-					    </div>
+					    </ul>
 					</li>
 				{% endif %}
 			{% endif %}
