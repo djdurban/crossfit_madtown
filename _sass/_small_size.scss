@@ -12,9 +12,13 @@
         background:rgba(100,27,17,1);
         
         .menu-top-links {
+            position:relative;
+            margin-left:auto;
+            margin-right:auto;
             display:flex;
             justify-content: space-around;
             max-width:768px;
+            
             .page-top-link {
                 
                 display:inline-block;
