@@ -4,6 +4,11 @@ title: CrossFit
 img1: "/images/abby_rings.jpg"
 img2: "/images/handstand.jpg"
 img3: "/images/running.jpg"
+sliderImg1: /images/header/carli_rings2.jpg
+sliderImg2: /images/header/wod.jpg
+sliderImg3: /images/header/slider1.jpg
+sliderImg4: /images/header/slider2.jpg
+sliderImg5: /images/header/slider4.jpg
 headerImage: /images/about_image.jpg
 permalink: /crossfit/
 ---
