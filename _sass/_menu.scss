@@ -9,7 +9,8 @@
   width: 100%;
   
 }
-#site-canvas {
+#site-canvas,
+ #site-menu {
   width: 100%;
   position: relative;
   
@@ -28,14 +29,8 @@
   
   
  }
-.show-nav #site-canvas {
-  -webkit-transform: translateX(300px);
-  transform: translateX(300px);
-  
-  -webkit-transform: translate3d(300px, 0, 0);
-  transform: translate3d(300px, 0, 0);
-}
-#site-menu {
+ 
+ #site-menu {
   width: 300px;
   height: 100%;
   position: absolute;
@@ -43,6 +38,18 @@
   left: -300px;
   background: $x-neutral-light;
 }
+ 
+.show-nav {
+    #site-canvas,
+    #site-menu{
+      -webkit-transform: translateX(300px);
+      transform: translateX(300px);
+      
+      -webkit-transform: translate3d(300px, 0, 0);
+      transform: translate3d(300px, 0, 0);
+    }
+}
+
 
 #menu-btn {
   display: block;
