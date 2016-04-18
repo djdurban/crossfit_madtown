@@ -13,7 +13,7 @@ collections:
         defaults:
             scope:
                 path: ""
-                type: "sub-index"
+                type: "camps-clinics-workshops"
             values:
                 layout: "post"
     getting-started:
@@ -29,7 +29,7 @@ collections:
         defaults:
             scope:
                 path: ""
-                type: "sub-index"
+                type: "crossfit"
             values:
                 layout: "post"
     coaches:
