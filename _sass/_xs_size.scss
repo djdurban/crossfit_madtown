@@ -78,6 +78,13 @@ p, li{
 
 .mask {
     min-height: 20rem;
+    position: absolute;
+        top: 0;
+        left: 0;
+        right: 0;
+        bottom: 0;
+        z-index: 2;
+        background: rgba(100, 27, 17, 0.8);
 
     #siteTitle {
         color: $white;
