@@ -42,7 +42,7 @@ $(function() {
 	                var times = schedule.Days[iday];
 	                for(var itime=0;itime<times.length; itime++) {
 	                    var eventStartDate = moment(startDate.format('L') + " " + times[itime]);
-	                    var eventEndDate = moment(eventStartDate).add(schedule.Duration);
+	                    var eventEndDate = moment(eventStartDate).add(schedule.Duration, 'h');
     	                var event = {
     	                    title: schedule.Title,
     	                    start: eventStartDate,
