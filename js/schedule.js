@@ -52,10 +52,6 @@ $(function() {
 
 	// Toggle Nav on Click
 	$('.madtown-schedule').fullCalendar({
-	    header: {
-				left: 'prev,next today',
-				right: 'title'
-			},
 	    defaultView: 'agendaWeek',
 	    defaultDate: '2014-06-12',
 	    minTime: '05:00:00',
