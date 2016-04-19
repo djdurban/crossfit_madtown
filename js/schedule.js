@@ -4,7 +4,10 @@
 $(function() {
 
 	// Toggle Nav on Click
-	$('.madtown-schedule').fullCalendar();
+	$('.madtown-schedule').fullCalendar({
+	    firstDay:1,
+	    defaultView: 'week'
+	});
 
 
 });
