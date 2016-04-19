@@ -40,6 +40,7 @@ $(function() {
 	                console.log(day);
 	            }
 	        }
+	        callback([]);
 	    }
 	});
 
