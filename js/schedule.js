@@ -7,8 +7,7 @@ $(function() {
 	$('.madtown-schedule').fullCalendar({
 	    header: {
 				left: 'prev,next today',
-				center: 'title',
-				right: 'month,agendaWeek,agendaDay'
+				center: 'title'
 			},
 	    defaultView: 'agendaWeek',
 	    defaultDate: '2014-06-12',
@@ -16,15 +15,6 @@ $(function() {
 	    maxTime: '21:00:00',
 	    allDaySlot: false,
 	    events: [
-				{
-					title: 'All Day Event',
-					start: '2014-06-01'
-				},
-				{
-					title: 'Long Event',
-					start: '2014-06-07',
-					end: '2014-06-10'
-				},
 				{
 					id: 999,
 					title: 'Repeating Event',
