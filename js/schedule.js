@@ -14,6 +14,7 @@ $(function() {
 	    defaultDate: '2014-06-12',
 	    minTime: '05:00:00',
 	    maxTime: '21:00:00',
+	    allDaySlot: false,
 	    events: [
 				{
 					title: 'All Day Event',
