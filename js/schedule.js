@@ -10,7 +10,7 @@ $(function() {
 				center: 'title',
 				right: 'month,agendaWeek,agendaDay'
 			},
-	    defaultView: 'basicAgenda',
+	    defaultView: 'agendaWeek',
 	    defaultDate: '2014-06-12',
 	    events: [
 				{
