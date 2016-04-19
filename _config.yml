@@ -1,3 +1,4 @@
+encoding: utf-8
 collections:
     athletic-performance-training:
         output: true
@@ -7,28 +8,20 @@ collections:
                 type: "athletic-performance-training"
             values:
                 layout: "post"
-    camps-clinics-workshops:
-        output: true
-        defaults:
-            scope:
-                path: ""
-                type: "camps-clinics-workshops"
-            values:
-                layout: "post"
-    getting-started:
-        output: true
-        defaults:
-            scope:
-                path: ""
-                type: "getting-started"
-            values:
-                layout: "post"
     crossfit:
         output: true
         defaults:
             scope:
                 path: ""
                 type: "crossfit"
+            values:
+                layout: "post"
+    coaches:
+        output: true
+        defaults:
+            scope:
+                path: ""
+                type: "coaches"
             values:
                 layout: "post"
     olympic-lifting:
