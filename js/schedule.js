@@ -5,6 +5,13 @@ $(function() {
     
     var schedules = [
         {
+            Title: "Rest Day",
+            Duration: 16,
+            Days: [
+                ['05:00'], //Sunday
+            ]
+        },
+        {
             Title: "CrossFit",
             Duration: 1,
             Days: [
