@@ -6,7 +6,7 @@ $(function() {
 	// Toggle Nav on Click
 	$('.madtown-schedule').fullCalendar({
 	    firstDay:1,
-	    defaultView: 'agendaWeek',
+	    defaultView: 'basicWeek',
 	    defaultDate: '2014-06-12',
 	    events: [
 				{
