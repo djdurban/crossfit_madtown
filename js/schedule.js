@@ -51,7 +51,7 @@ $(function() {
 	                }
 	                
 	            }
-	            startDate.add(1,'d');
+	            startDate = startDate.add(1,'d');
 	        }
 	        callback(events);
 	    }
