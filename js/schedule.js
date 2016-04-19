@@ -34,8 +34,8 @@ $(function() {
 	    allDaySlot: false,
 	    events: function (start, end, timezone, callback) {
 	        var events = [];
-	        var startDate = moment(start);
 	        for(var isched=0;isched<schedules.length; isched++) {
+	            var startDate = moment(start);
 	            var schedule = schedules[isched];
 	            
 	            for(var iday=0;iday<schedule.Days.length; iday++) {
@@ -49,9 +49,9 @@ $(function() {
     	                }
     	                events.push(event);
 	                }
-	                
+	                startDate.add(1,'d');
 	            }
-	            startDate = startDate.add(1,'d');
+	            
 	        }
 	        callback(events);
 	    }
