@@ -4,7 +4,7 @@
 $(function() {
 
 	// Toggle Nav on Click
-	$('.calendar').fullCalendar();
+	$('.madtown-schedule').fullCalendar();
 
 
 });
