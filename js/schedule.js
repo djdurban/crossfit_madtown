@@ -58,6 +58,7 @@ $(function() {
 	    maxTime: '21:00:00',
 	    allDaySlot: false,
 	    height:"auto",
+	    hiddenDays: [0];
 	    events: function (start, end, timezone, callback) {
 	        var events = [];
 	        for(var isched=0;isched<schedules.length; isched++) {
