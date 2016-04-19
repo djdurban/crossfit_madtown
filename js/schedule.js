@@ -58,6 +58,7 @@ $(function() {
 	    height:"auto",
 	    hiddenDays: [0],
 	    columnFormat: 'dddd',
+	    displayEventTime: false,
 	    events: function (start, end, timezone, callback) {
 	        var events = [];
 	        for(var isched=0;isched<schedules.length; isched++) {
