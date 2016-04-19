@@ -54,19 +54,11 @@ Drop-In Rate: $20
 
 **Days/Times:**
 
-Monday-Friday: 5:30am - 6:30m
+Monday-Thursday: 5:30am, 6:30am, 12pm, 4pm, 5pm, 6pm
 
-Monday-Friday: 6:30am - 7:30am
+Friday: 5:30am, 6:30am, 12pm, 4pm, 5pm
 
-Monday-Saturday: 12pm - 1pm
-
-Monday-Friday: 4pm - 5pm
-
-Monday-Friday: 5pm - 6pm
-
-Monday-Thursday: 6pm - 7pm
-
-Saturday: 7am - 8am
+Saturday: 7am, 12pm
 
 **Additional Details:**
 
