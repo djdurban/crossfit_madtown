@@ -23,6 +23,32 @@ $(function() {
                 ["05:30","06:30","12:00","16:00","17:00"], //Friday
                 ["07:00","12:00"] //Saturday
             ]
+        },
+        {
+            Title: "Olympic Weightlifting",
+            Duration: 1,
+            Days: [
+                [], //Sunday
+                ["19:15"], //Monday
+                [], //Tuesday
+                ["19:15"], //Wednesday
+                [], //Thursday
+                [], //Friday
+                [] //Saturday
+            ]
+        },
+        {
+            Title: "Olympic Weightlifting",
+            Duration: 2,
+            Days: [
+                [], //Sunday
+                [], //Monday
+                [], //Tuesday
+                [], //Wednesday
+                [], //Thursday
+                [], //Friday
+                ["10:00"] //Saturday
+            ]
         }
     ]
         
