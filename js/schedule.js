@@ -6,6 +6,7 @@ $(function() {
     var schedules = [
         {
             Title: "CrossFit",
+            Duration: 1,
             Days: [
                 [], //Sunday
                 ["05:30","06:30","12:00","16:00","17:00","18:00"], //Monday
@@ -32,16 +33,27 @@ $(function() {
 	    maxTime: '21:00:00',
 	    allDaySlot: false,
 	    events: function (start, end, timezone, callback) {
+	        var events = [];
+	        var startDate = moment(start);
 	        for(var isched=0;isched<schedules.length; isched++) {
 	            var schedule = schedules[isched];
 	            
 	            for(var iday=0;iday<schedule.Days.length; iday++) {
-	                var day = schedule.Days[iday];
+	                var times = schedule.Days[iday];
+	                for(var itime=0;itime<times.length; itime++) {
+	                    var eventDate = moment(startDate.format('L') + " " + times[itime]);
+    	                var event = {
+    	                    title: schedule.Title
+    	                    start: eventDate,
+    	                    end: eventDate.add(schedule.Duration,'h')
+    	                }
+    	                events.push(event);
+	                }
 	                
-	                console.log(day);
 	            }
+	            startDate.add(1,'d');
 	        }
-	        callback([]);
+	        callback(events);
 	    }
 	});
 
