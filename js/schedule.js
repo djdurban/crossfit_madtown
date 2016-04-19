@@ -43,7 +43,7 @@ $(function() {
 	                for(var itime=0;itime<times.length; itime++) {
 	                    var eventDate = moment(startDate.format('L') + " " + times[itime]);
     	                var event = {
-    	                    title: schedule.Title
+    	                    title: schedule.Title,
     	                    start: eventDate,
     	                    end: eventDate.add(schedule.Duration,'h')
     	                }
