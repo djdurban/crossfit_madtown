@@ -7,7 +7,7 @@ $(function() {
         {
             Title: "CrossFit",
             Duration: 1,
-            Color:"rgba(100,27,17,1)",
+            BackgroundColor:"rgba(100,27,17,1)",
             Days: [
                 ["05:30","06:30","12:00","16:00","17:00","18:00"], //Monday
                 ["05:30","06:30","12:00","16:00","17:00","18:00"], //Tuesday
@@ -20,7 +20,7 @@ $(function() {
         {
             Title: "Olympic Weightlifting",
             Duration: 1,
-            Color:"rgba(27,100,17,1)",
+            BackgroundColor:"rgba(27,100,17,1)",
             Days: [
                 ["19:15"], //Monday
                 [], //Tuesday
@@ -32,7 +32,7 @@ $(function() {
         },
         {
             Title: "Olympic Weightlifting",
-            Color:"rgba(27,100,17,1)",
+            BackgroundColor:"rgba(27,100,17,1)",
             Duration: 2,
             Days: [
                 [], //Monday
@@ -70,7 +70,8 @@ $(function() {
     	                var event = {
     	                    title: schedule.Title,
     	                    start: eventStartDate,
-    	                    end: eventEndDate
+    	                    end: eventEndDate,
+    	                    backgroundColor: schedule.BackgroundColor
     	                }
     	                events.push(event);
 	                }
