@@ -9,7 +9,6 @@ $(function() {
             Duration: 1,
             Color:"rgba(100,27,17,1)",
             Days: [
-                [], //Sunday
                 ["05:30","06:30","12:00","16:00","17:00","18:00"], //Monday
                 ["05:30","06:30","12:00","16:00","17:00","18:00"], //Tuesday
                 ["05:30","06:30","12:00","16:00","17:00","18:00"], //Wednesday
@@ -23,7 +22,6 @@ $(function() {
             Duration: 1,
             Color:"rgba(27,100,17,1)",
             Days: [
-                [], //Sunday
                 ["19:15"], //Monday
                 [], //Tuesday
                 ["19:15"], //Wednesday
@@ -37,7 +35,6 @@ $(function() {
             Color:"rgba(27,100,17,1)",
             Duration: 2,
             Days: [
-                [], //Sunday
                 [], //Monday
                 [], //Tuesday
                 [], //Wednesday
