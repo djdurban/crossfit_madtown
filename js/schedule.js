@@ -3,7 +3,7 @@
 ====================================*/
 $(function() {
     
-    var classes = [
+    var schedules = [
         {
             Title: "CrossFit",
             Days: {
@@ -30,36 +30,17 @@ $(function() {
 	    minTime: '05:00:00',
 	    maxTime: '21:00:00',
 	    allDaySlot: false,
-	    events: [
-				{
-					id: 999,
-					title: 'Repeating Event',
-					start: '2014-06-09T16:00:00'
-				},
-				{
-					id: 999,
-					title: 'Repeating Event',
-					start: '2014-06-16T16:00:00'
-				},
-				{
-					title: 'Meeting',
-					start: '2014-06-12T10:30:00',
-					end: '2014-06-12T12:30:00'
-				},
-				{
-					title: 'Lunch',
-					start: '2014-06-12T12:00:00'
-				},
-				{
-					title: 'Birthday Party',
-					start: '2014-06-13T07:00:00'
-				},
-				{
-					title: 'Click for Google',
-					url: 'http://google.com/',
-					start: '2014-06-28'
-				}
-			]
+	    events: function (start, end, timezone, callback) {
+	        for(var isched=0;isched<schedules.length; isched++) {
+	            var schedule = schedules[isched];
+	            
+	            for(var iday=0;iday<schedule.Days.length; iday++) {
+	                var day = schedule.Days[iday];
+	                
+	                console.log(day);
+	            }
+	        }
+	    }
 	});
 
 
