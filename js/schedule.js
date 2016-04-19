@@ -41,11 +41,12 @@ $(function() {
 	            for(var iday=0;iday<schedule.Days.length; iday++) {
 	                var times = schedule.Days[iday];
 	                for(var itime=0;itime<times.length; itime++) {
-	                    var eventDate = moment(startDate.format('L') + " " + times[itime]);
+	                    var eventStartDate = moment(startDate.format('L') + " " + times[itime]);
+	                    var eventEndDate = moment(eventStartDate).add(schedule.Duration);
     	                var event = {
     	                    title: schedule.Title,
-    	                    start: eventDate,
-    	                    end: eventDate.add(schedule.Duration,'h')
+    	                    start: eventStartDate,
+    	                    end: eventEndDate
     	                }
     	                events.push(event);
 	                }
