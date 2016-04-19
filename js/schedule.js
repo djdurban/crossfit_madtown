@@ -32,6 +32,7 @@ $(function() {
 	    minTime: '05:00:00',
 	    maxTime: '21:00:00',
 	    allDaySlot: false,
+	    height:auto,
 	    events: function (start, end, timezone, callback) {
 	        var events = [];
 	        for(var isched=0;isched<schedules.length; isched++) {
