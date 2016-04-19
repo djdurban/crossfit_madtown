@@ -7,7 +7,7 @@ $(function() {
 	$('.madtown-schedule').fullCalendar({
 	    header: {
 				left: 'prev,next today',
-				center: 'title'
+				right: 'title'
 			},
 	    defaultView: 'agendaWeek',
 	    defaultDate: '2014-06-12',
