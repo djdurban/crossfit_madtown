@@ -5,15 +5,9 @@ $(function() {
     
     var schedules = [
         {
-            Title: "Rest Day",
-            Duration: 16,
-            Days: [
-                ['05:00'], //Sunday
-            ]
-        },
-        {
             Title: "CrossFit",
             Duration: 1,
+            Color:"rgba(100,27,17,1)",
             Days: [
                 [], //Sunday
                 ["05:30","06:30","12:00","16:00","17:00","18:00"], //Monday
@@ -27,6 +21,7 @@ $(function() {
         {
             Title: "Olympic Weightlifting",
             Duration: 1,
+            Color:"rgba(27,100,17,1)",
             Days: [
                 [], //Sunday
                 ["19:15"], //Monday
@@ -39,6 +34,7 @@ $(function() {
         },
         {
             Title: "Olympic Weightlifting",
+            Color:"rgba(27,100,17,1)",
             Duration: 2,
             Days: [
                 [], //Sunday
@@ -96,58 +92,4 @@ $(function() {
 });
 
 
-
-	$(document).ready(function() {
-		
-		$('#calendar').fullCalendar({
-			header: {
-				left: 'prev,next today',
-				center: 'title',
-				right: 'month,agendaWeek,agendaDay'
-			},
-			defaultDate: '2014-06-12',
-			defaultView: 'agendaWeek',
-			editable: true,
-			events: [
-				{
-					title: 'All Day Event',
-					start: '2014-06-01'
-				},
-				{
-					title: 'Long Event',
-					start: '2014-06-07',
-					end: '2014-06-10'
-				},
-				{
-					id: 999,
-					title: 'Repeating Event',
-					start: '2014-06-09T16:00:00'
-				},
-				{
-					id: 999,
-					title: 'Repeating Event',
-					start: '2014-06-16T16:00:00'
-				},
-				{
-					title: 'Meeting',
-					start: '2014-06-12T10:30:00',
-					end: '2014-06-12T12:30:00'
-				},
-				{
-					title: 'Lunch',
-					start: '2014-06-12T12:00:00'
-				},
-				{
-					title: 'Birthday Party',
-					start: '2014-06-13T07:00:00'
-				},
-				{
-					title: 'Click for Google',
-					url: 'http://google.com/',
-					start: '2014-06-28'
-				}
-			]
-		});
-		
-	});
 
