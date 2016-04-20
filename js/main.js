@@ -56,6 +56,21 @@ $(document).ready(function () {
     interval = setInterval(getNext, 2000); // milliseconds
     $('#next').on('click', getNext);
     $('#prev').on('click', getPrev);
+    
+    var current = moment();
+    var start = moment("4/23/2012 8:30am");
+    var end = moment("4/24/2012 6:00pm");
+    
+    $('#btnLiveStream').on('click', function (ev) {
+       var btnLiveStream = $('#btnLiveStream');
+       var lblLiveStream = $('#lblLiveStream');
+       
+       if (current < start) {
+           alert('Live Stream has not started yet, please check back Saturday after 8:30am');
+           ev.stopPropagation();
+           ev.preventDefault();
+       }
+    });
 });
 
 function getNext() {
