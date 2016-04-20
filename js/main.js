@@ -60,17 +60,21 @@ $(document).ready(function () {
     var current = moment();
     var start = moment("4/23/2012 8:30am");
     var end = moment("4/24/2012 6:00pm");
-    
-    $('#btnLiveStream').on('click', function (ev) {
-       var btnLiveStream = $('#btnLiveStream');
+    var btnLiveStream = $('#btnLiveStream');
        var lblLiveStream = $('#lblLiveStream');
        
+    btnLiveStream.on('click', function (ev) {
        if (current < start) {
            alert('Live Stream has not started yet, please check back Saturday after 8:30am');
            ev.stopPropagation();
            ev.preventDefault();
        }
     });
+    
+    if (current > end) {
+        btnLiveStream.hide();
+        lblLiveStream.hide();
+    }
 });
 
 function getNext() {
