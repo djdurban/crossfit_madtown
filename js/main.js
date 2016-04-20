@@ -58,8 +58,8 @@ $(document).ready(function () {
     $('#prev').on('click', getPrev);
     
     var current = moment();
-    var start = moment("4/23/2012 8:30am");
-    var end = moment("4/24/2012 6:00pm");
+    var start = moment("4/23/2016 8:30 am");
+    var end = moment("4/24/2016 6:00 pm");
     var btnLiveStream = $('#btnLiveStream');
        var lblLiveStream = $('#lblLiveStream');
        
