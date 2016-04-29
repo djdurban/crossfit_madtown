@@ -48,7 +48,7 @@ This class delivers a fitness style that is, by design, broad, general, and incl
 
 Unlimited adult classes (including Crossfit and Olympic Lifting): $150/month
 
-Couples Unlimited Rate: $200 ($100 each)
+Couples Unlimited Rate: $250 ($125 each)
 
 Drop-In Rate: $20
 
